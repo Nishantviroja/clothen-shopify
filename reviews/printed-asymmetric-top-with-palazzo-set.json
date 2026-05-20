@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Deepak Rao",
+    "rating": 5,
+    "review": "Got many compliments wearing this."
+  },
+  {
+    "name": "Anita Iyer",
+    "rating": 4,
+    "review": "Beautiful design, highly recommended."
+  },
+  {
+    "name": "Praveen Nambiar",
+    "rating": 4,
+    "review": "Will definitely buy again."
+  },
+  {
+    "name": "Vikram Rathore",
+    "rating": 5,
+    "review": "Very stylish and trendy."
+  },
+  {
+    "name": "Priya Singh",
+    "rating": 5,
+    "review": "Feels very luxurious."
+  }
+]

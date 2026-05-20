@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ananya Pandey",
+    "rating": 5,
+    "review": "Smooth texture and perfect size."
+  },
+  {
+    "name": "Nitin Garg",
+    "rating": 5,
+    "review": "Great value for money."
+  },
+  {
+    "name": "Priyanka Saxena",
+    "rating": 5,
+    "review": "Simply superb."
+  },
+  {
+    "name": "Aarti Menon",
+    "rating": 5,
+    "review": "Will definitely buy again."
+  },
+  {
+    "name": "Sunita Thakur",
+    "rating": 5,
+    "review": "A must-buy for this season."
+  },
+  {
+    "name": "Sneha Joshi",
+    "rating": 4,
+    "review": "Perfect fitting and print quality."
+  }
+]

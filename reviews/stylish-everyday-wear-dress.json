@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Arjun Mehta",
+    "rating": 5,
+    "review": "My new favorite outfit."
+  },
+  {
+    "name": "Rohan Das",
+    "rating": 4,
+    "review": "Beautiful design, highly recommended."
+  },
+  {
+    "name": "Pratiksha Patil",
+    "rating": 5,
+    "review": "Good quality material."
+  },
+  {
+    "name": "Aarti Menon",
+    "rating": 5,
+    "review": "Absolutely gorgeous!"
+  },
+  {
+    "name": "Aakash Bhatt",
+    "rating": 4,
+    "review": "Just loved it."
+  },
+  {
+    "name": "Pooja Gupta",
+    "rating": 5,
+    "review": "Exceeded my expectations!"
+  }
+]

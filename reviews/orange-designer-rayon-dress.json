@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Priyanka Saxena",
+    "rating": 5,
+    "review": "Absolutely gorgeous!"
+  },
+  {
+    "name": "Deepak Rao",
+    "rating": 5,
+    "review": "Simply superb."
+  },
+  {
+    "name": "Anjali Desai",
+    "rating": 4,
+    "review": "A must-buy for this season."
+  },
+  {
+    "name": "Pooja Gupta",
+    "rating": 4,
+    "review": "Stitching is flawless."
+  },
+  {
+    "name": "Vijay Bhatia",
+    "rating": 5,
+    "review": "My new favorite outfit."
+  }
+]

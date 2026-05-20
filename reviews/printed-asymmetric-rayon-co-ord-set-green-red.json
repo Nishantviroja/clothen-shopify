@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Siddharth Jain",
+    "rating": 5,
+    "review": "Fabric is very soft and comfortable."
+  },
+  {
+    "name": "Sunita Thakur",
+    "rating": 5,
+    "review": "Very stylish and trendy."
+  },
+  {
+    "name": "Neha Sharma",
+    "rating": 5,
+    "review": "Exceeded my expectations!"
+  },
+  {
+    "name": "Amit Kumar",
+    "rating": 4,
+    "review": "Simply superb."
+  },
+  {
+    "name": "Deepak Rao",
+    "rating": 5,
+    "review": "Beautiful design, highly recommended."
+  },
+  {
+    "name": "Nitin Garg",
+    "rating": 5,
+    "review": "My new favorite outfit."
+  },
+  {
+    "name": "Arjun Mehta",
+    "rating": 5,
+    "review": "Got many compliments wearing this."
+  }
+]

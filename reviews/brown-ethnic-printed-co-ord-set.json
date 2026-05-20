@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sneha Joshi",
+    "rating": 4,
+    "review": "Good quality material."
+  },
+  {
+    "name": "Vikram Rathore",
+    "rating": 5,
+    "review": "The color is exactly as shown in the picture."
+  },
+  {
+    "name": "Geeta Jha",
+    "rating": 5,
+    "review": "My new favorite outfit."
+  }
+]

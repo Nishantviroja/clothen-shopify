@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Geeta Jha",
+    "rating": 5,
+    "review": "Smooth texture and perfect size."
+  },
+  {
+    "name": "Karthik Krishnan",
+    "rating": 5,
+    "review": "Exceeded my expectations!"
+  },
+  {
+    "name": "Rahul Verma",
+    "rating": 5,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Sunita Thakur",
+    "rating": 4,
+    "review": "Will definitely buy again."
+  },
+  {
+    "name": "Arjun Mehta",
+    "rating": 5,
+    "review": "A must-buy for this season."
+  },
+  {
+    "name": "Snehal Kulkarni",
+    "rating": 5,
+    "review": "Very stylish and trendy."
+  },
+  {
+    "name": "Rohit Chauhan",
+    "rating": 5,
+    "review": "Stitching is flawless."
+  }
+]

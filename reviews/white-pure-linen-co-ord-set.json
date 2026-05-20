@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pooja Gupta",
+    "rating": 4,
+    "review": "The color is exactly as shown in the picture."
+  },
+  {
+    "name": "Anjali Desai",
+    "rating": 5,
+    "review": "Perfect fitting and print quality."
+  },
+  {
+    "name": "Rekha Dalal",
+    "rating": 5,
+    "review": "Got many compliments wearing this."
+  },
+  {
+    "name": "Rohan Das",
+    "rating": 5,
+    "review": "Exceeded my expectations!"
+  }
+]

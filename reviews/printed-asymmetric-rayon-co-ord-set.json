@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Karthik Krishnan",
+    "rating": 5,
+    "review": "Perfect fitting and print quality."
+  },
+  {
+    "name": "Nitin Garg",
+    "rating": 5,
+    "review": "Got many compliments wearing this."
+  },
+  {
+    "name": "Anita Iyer",
+    "rating": 4,
+    "review": "Very stylish and trendy."
+  },
+  {
+    "name": "Siddharth Jain",
+    "rating": 5,
+    "review": "Absolutely gorgeous!"
+  },
+  {
+    "name": "Nishant Viroja",
+    "rating": 5,
+    "review": "Stitching is flawless."
+  },
+  {
+    "name": "Meera Nair",
+    "rating": 5,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Rohan Das",
+    "rating": 5,
+    "review": "Exceeded my expectations!"
+  }
+]

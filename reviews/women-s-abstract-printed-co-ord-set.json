@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Deepak Rao",
+    "rating": 5,
+    "review": "Good quality material."
+  },
+  {
+    "name": "Swati Kadam",
+    "rating": 5,
+    "review": "Absolutely gorgeous!"
+  },
+  {
+    "name": "Siddharth Jain",
+    "rating": 4,
+    "review": "Got many compliments wearing this."
+  },
+  {
+    "name": "Neha Sharma",
+    "rating": 5,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Snehal Kulkarni",
+    "rating": 4,
+    "review": "Smooth texture and perfect size."
+  },
+  {
+    "name": "Surali Patel",
+    "rating": 5,
+    "review": "A must-buy for this season."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Simran Kaur",
+    "rating": 4,
+    "review": "Exceeded my expectations!"
+  },
+  {
+    "name": "Manoj Tiwari",
+    "rating": 5,
+    "review": "The color is exactly as shown in the picture."
+  },
+  {
+    "name": "Kavita Reddy",
+    "rating": 5,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Deepak Rao",
+    "rating": 5,
+    "review": "Stitching is flawless."
+  }
+]

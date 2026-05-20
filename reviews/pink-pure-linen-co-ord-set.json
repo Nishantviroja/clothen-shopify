@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rohit Chauhan",
+    "rating": 5,
+    "review": "Beautiful design, highly recommended."
+  },
+  {
+    "name": "Divya Agarwal",
+    "rating": 5,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Snehal Kulkarni",
+    "rating": 4,
+    "review": "Just loved it."
+  }
+]
