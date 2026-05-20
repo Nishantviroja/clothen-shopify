@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vijay Bhatia",
+    "rating": 5,
+    "review": "Great value for money."
+  },
+  {
+    "name": "Anjali Desai",
+    "rating": 5,
+    "review": "Fast delivery and great product."
+  },
+  {
+    "name": "Ananya Pandey",
+    "rating": 5,
+    "review": "Feels very luxurious."
+  },
+  {
+    "name": "Amit Kumar",
+    "rating": 5,
+    "review": "Fabric is very soft and comfortable."
+  },
+  {
+    "name": "Yash Chawla",
+    "rating": 5,
+    "review": "Just loved it."
+  },
+  {
+    "name": "Sunita Thakur",
+    "rating": 4,
+    "review": "Looks premium and elegant."
+  },
+  {
+    "name": "Surali Patel",
+    "rating": 5,
+    "review": "A must-buy for this season."
+  }
+]
