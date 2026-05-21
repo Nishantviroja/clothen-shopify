@@ -1,12 +1,212 @@
 [
   {
-    "name": "Siddharth Jain",
+    "name": "Meenakshi Mehta",
     "rating": 5,
-    "review": "Fabric is very soft and comfortable."
+    "review": "No shrinkage after first wash, fabric touch is soft."
   },
   {
-    "name": "Vijay Bhatia",
+    "name": "Madhav Nair",
     "rating": 5,
-    "review": "Very stylish and trendy."
+    "review": "Perfect length for both top and pants. Trousers are loose and airy. Color prints are very beautiful. Great addition to my summer collection. 😊"
+  },
+  {
+    "name": "Karan Trivedi",
+    "rating": 5,
+    "review": "Bahut hi sundar color combinations hai. Stitching is neat."
+  },
+  {
+    "name": "Rakesh Sarkar",
+    "rating": 5,
+    "review": "I was looking for a stylish yet comfortable co-ord set for daily use, and this red-blue printed one is absolutely perfect. The rayon fabric is extremely soft and light, doesn't feel warm at all. The asymmetric cut of the top gives a very modern silhouette which I love. Trousers have a perfect fit and are very comfortable around the waist. The prints look very high quality and haven't faded after washing. Great buy! ❤️"
+  },
+  {
+    "name": "Sneha Johal",
+    "rating": 5,
+    "review": "Love the blue floral pattern on red base. It looks very fresh. Fabric is super soft rayon. Stitching is very durable. Overall very happy! ❤️"
+  },
+  {
+    "name": "Nisha Trivedi",
+    "rating": 5,
+    "review": "Bahu saro and cheap rate ma saro co-ord set che. Rayon material doesn't shrink after wash. Perfect fit. Delivery was also on time."
+  },
+  {
+    "name": "Richa Malhotra",
+    "rating": 5,
+    "review": "Really liked the red-blue color combination. The asymmetrical pattern gives it a very contemporary look. Rayon fabric is breathable and perfect for office wear. 😊"
+  },
+  {
+    "name": "Jyoti Joshi",
+    "rating": 5,
+    "review": "Nice asymmetrical cut, looks very unique and stylish."
+  },
+  {
+    "name": "Simran Reddy",
+    "rating": 5,
+    "review": "Loved the red and blue combination, fabric is very soft. ❤️"
+  },
+  {
+    "name": "Lata Jha",
+    "rating": 5,
+    "review": "Kapdu khub j soft che. The red and blue color combination looks very classy and vibrant. The asymmetric pattern is stitched very professionally, and the sleeves have a nice comfortable fit. No color bleeding or shrinking during wash. The pant length is perfect for me. Delivery took only 3 days and packaging was very neat. Will buy more items from this seller. 😊"
+  },
+  {
+    "name": "Komal Chopra",
+    "rating": 4,
+    "review": "Good quality, rayon material is soft but shipping was a bit slow."
+  },
+  {
+    "name": "Kriti Khanna",
+    "rating": 5,
+    "review": "Perfect fitting and very comfortable for hot weather. 👍"
+  },
+  {
+    "name": "Prem Hegde",
+    "rating": 5,
+    "review": "Bahut hi pyara co-ord set hai. Stitching is very clean and finishing is neat. Rayon quality is high grade. Fit is exactly as per size chart."
+  },
+  {
+    "name": "Yogesh Menon",
+    "rating": 5,
+    "review": "Perfect daily wear co-ord set. Drawstring pant is comfy."
+  },
+  {
+    "name": "Diya Mittal",
+    "rating": 5,
+    "review": "Bahut comfortable matching set hai. Rayon cloth is soft and thanda for summer. Neck stitching is neat and gold details look premium. Good delivery speed."
+  },
+  {
+    "name": "Ishita Hegde",
+    "rating": 5,
+    "review": "Bahu comfortable set che everyday wear mate. The asymmetric hem looks very modern. Washed it twice and no color faded. Very satisfied with quality. 👌"
+  },
+  {
+    "name": "Indira Nair",
+    "rating": 5,
+    "review": "Gifted this to my wife. She liked the soft feel of the fabric and the asymmetric pattern. She says it's perfect for her daily office wear. Thank you!"
+  },
+  {
+    "name": "Sita Yadav",
+    "rating": 5,
+    "review": "Worth every rupee, print quality is high class."
+  },
+  {
+    "name": "Shruti Johal",
+    "rating": 5,
+    "review": "Very smart neck design and beautiful printed motifs. 😊"
+  },
+  {
+    "name": "Renu Trivedi",
+    "rating": 5,
+    "review": "Excellent product! The design is very modern and colors are rich. Rayon material feels soft and skin-friendly. Highly recommended daily wear! 👍"
+  },
+  {
+    "name": "Reena Joshi",
+    "rating": 5,
+    "review": "Gifted this to my daughter for her college wear. She is extremely happy with the comfort and design. She was praising the soft rayon material which is ideal for hot summer days. The asymmetric cut gives a very stylish drape, and the matching pants look very smart. Stitching is clean and durable. Value for money product, highly recommend! 👍"
+  },
+  {
+    "name": "Neha Menon",
+    "rating": 5,
+    "review": "Ideal for office wear, very comfortable to sit in all day."
+  },
+  {
+    "name": "Ritu Narang",
+    "rating": 4,
+    "review": "Nice fit and style. Pockets are missing but overall good product. 👍"
+  },
+  {
+    "name": "Rashmi Shenoy",
+    "rating": 5,
+    "review": "Best summer co-ord set. Highly recommend this brand! 🥰"
+  },
+  {
+    "name": "Alka Sidhu",
+    "rating": 5,
+    "review": "Kapda bahut soft hai, pants are very comfortable too. 👌"
+  },
+  {
+    "name": "Geeta Patel",
+    "rating": 5,
+    "review": "Fitting pan perfect che and design is very elegant."
+  },
+  {
+    "name": "Tanvi Das",
+    "rating": 5,
+    "review": "Jeve photo ma che exact evu j che. Very happy with it."
+  },
+  {
+    "name": "Chitra Dutta",
+    "rating": 5,
+    "review": "Great product, material feels premium and lightweight. 👍"
+  },
+  {
+    "name": "Meera Joshi",
+    "rating": 5,
+    "review": "Wore it for an outing and got many compliments! ❤️"
+  },
+  {
+    "name": "Ishaan Pawar",
+    "rating": 5,
+    "review": "Bought this for a casual get-together. Fabric is soft rayon and flowy. The asymmetrical design makes you look taller. Fitting is true to size."
+  },
+  {
+    "name": "Vineet Kohli",
+    "rating": 5,
+    "review": "Stitching quality is top notch. The red and blue print matches perfectly with the trousers. Ideal for hot summers. Value for money product, recommend it. 🥰"
+  },
+  {
+    "name": "Geeta Chatterjee",
+    "rating": 5,
+    "review": "Very flowy rayon fabric, color did not bleed during wash."
+  },
+  {
+    "name": "Uma Shenoy",
+    "rating": 5,
+    "review": "Bahu saro set che, printing and stitching are excellent. 😊"
+  },
+  {
+    "name": "Lata Roy",
+    "rating": 5,
+    "review": "This asymmetric rayon co-ord set exceeded my expectations! The fabric is high quality rayon, very flowy and soft on the skin. The red and blue prints are distinct and elegant. The trousers are breathable and have a good stretch. Did not experience any shrinkage. Perfect for office wear or a casual weekend outing. Extremely satisfied with this buy! 🥰"
+  },
+  {
+    "name": "Sarita Singh",
+    "rating": 5,
+    "review": "Fabric khub j soft che and comfortable che. Wore it for a long journey and felt very relaxed. Trousers have a good elastic waist. Good purchase. ❤️"
+  },
+  {
+    "name": "Sameer Hegde",
+    "rating": 4,
+    "review": "Fabric is soft rayon, very comfy for daily use. Colors are bright red and blue. Sizing is slightly on the looser side, but still looks good. Fast delivery. 😊"
+  },
+  {
+    "name": "Mohit Hegde",
+    "rating": 5,
+    "review": "Best buy for casual wear. The fabric is lightweight and doesn't require heavy ironing. The color prints are very bright and look stylish. Must buy!"
+  },
+  {
+    "name": "Tulsi Jha",
+    "rating": 5,
+    "review": "Gifted to my daughter, she is happy with the fit."
+  },
+  {
+    "name": "Komal Kapoor",
+    "rating": 5,
+    "review": "Modern asymmetric design, looks very classy. Worth the price."
+  },
+  {
+    "name": "Shruti Dutta",
+    "rating": 5,
+    "review": "Nice flowy co-ord set. Fits perfectly. The asymmetric top has a great flare and pants are very comfortable for long hours. Good quality product."
+  },
+  {
+    "name": "Deepa Pawar",
+    "rating": 5,
+    "review": "I ordered this for my sister. She loved the asymmetric look and red-blue pattern. Fits her perfectly and fabric is soft on skin. Fast shipping. 👍"
+  },
+  {
+    "name": "Kiran Dutta",
+    "rating": 4,
+    "review": "The co-ord set looks very pretty and fabric is comfortable. The only issue is that the trousers are slightly long for my height, will need minor alterations. Good buy."
   }
 ]

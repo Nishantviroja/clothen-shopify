@@ -1,12 +1,212 @@
 [
   {
-    "name": "Arjun Mehta",
-    "rating": 5,
-    "review": "Will definitely buy again."
+    "name": "Varsha Verma",
+    "rating": 4,
+    "review": "Fits well. Sizing is true to size chart. Decent purchase. 👌"
   },
   {
-    "name": "Rohit Chauhan",
+    "name": "Shweta Mittal",
     "rating": 5,
-    "review": "The color is exactly as shown in the picture."
+    "review": "Really liked the geometric border details. The pants are very comfortable and airy. Perfect dress for regular office wear. 👌"
+  },
+  {
+    "name": "Purvi Reddy",
+    "rating": 5,
+    "review": "Stitching quality is top class, and prints look premium. The length of the top is just perfect. Great summer wear, highly recommend!"
+  },
+  {
+    "name": "Rishi Hegde",
+    "rating": 4,
+    "review": "Fabric is soft and very comfy for daily use. Sizing is slightly on the looser side, but still looks good on body. Fast delivery. 😊"
+  },
+  {
+    "name": "Ishaan Anand",
+    "rating": 5,
+    "review": "Ordered for my wife and she looks extremely pretty. ❤️"
+  },
+  {
+    "name": "Tulsi Mittal",
+    "rating": 4,
+    "review": "The printed fabric quality is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the geometric print looks very smart. However, the sizing of the top is slightly on the looser side. I ordered Medium but it feels a bit loose. Wrinkles easily. Otherwise, a very decent daily wear set. 😊"
+  },
+  {
+    "name": "Nitin Aggarwal",
+    "rating": 5,
+    "review": "Very stylish co-ord set! Material is soft and cooling for summers. Neck stitching is clean and details look premium. Good delivery speed. 😊"
+  },
+  {
+    "name": "Manju Menon",
+    "rating": 5,
+    "review": "Geometric patterns on sleeves and hem look very stylish."
+  },
+  {
+    "name": "Shweta Solanki",
+    "rating": 3,
+    "review": "Average fit. Color looks slightly different from the photo. 😕"
+  },
+  {
+    "name": "Sarita Jadeja",
+    "rating": 5,
+    "review": "Bahut hi comfortable fabric hai. Value for money buy."
+  },
+  {
+    "name": "Heena Garg",
+    "rating": 5,
+    "review": "Bahu saro and comfortable geometric print co-ord set."
+  },
+  {
+    "name": "Jyoti Reddy",
+    "rating": 5,
+    "review": "Kapdu bahut soft and comfortable che. The geometric borders look very modern and trendy. Stitching is very clean, and there are no loose threads at all. The trousers have a great elastic waistband which is comfortable for daily wear. Wore it to my college and got many compliments. Washes well, did not shrink. 😊"
+  },
+  {
+    "name": "Vidya Goel",
+    "rating": 5,
+    "review": "No color bleeding or shrinking after first wash. Great quality. 👍"
+  },
+  {
+    "name": "Hardik Solanki",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Print looks nice, overall happy with buy. 😊"
+  },
+  {
+    "name": "Sita Parmar",
+    "rating": 5,
+    "review": "Bahut comfortable and lightweight set. Color combination matches the photos exactly. Elastic on the pants is very soft. 👌"
+  },
+  {
+    "name": "Arnav Reddy",
+    "rating": 5,
+    "review": "Amazing summer wear, lightweight and highly breathable. 😊"
+  },
+  {
+    "name": "Pratyush Chauhan",
+    "rating": 5,
+    "review": "Stitching is very clean and colors are vibrant. 👌"
+  },
+  {
+    "name": "Sneha Randeria",
+    "rating": 4,
+    "review": "Good co-ord set, fabric is soft but delivery was slightly delayed."
+  },
+  {
+    "name": "Pratyush Sharma",
+    "rating": 4,
+    "review": "Nice fit and style. Pants elastic is comfortable. Good product. 👍"
+  },
+  {
+    "name": "Kinjal Aggarwal",
+    "rating": 5,
+    "review": "Nice daily wear printed set. Fabric quality is very premium. Fitting pan perfect che. Delivered on time and packaging was neat."
+  },
+  {
+    "name": "Preeti Dutta",
+    "rating": 5,
+    "review": "I ordered this midnight flora co-ord set for my daughter. She really liked the modern geometric borders and soft fabric. Fits very nicely. 😊"
+  },
+  {
+    "name": "Rashmi Shetty",
+    "rating": 5,
+    "review": "Fitting pan ekdam perfect che. Very happy with the purchase."
+  },
+  {
+    "name": "Sarita Parmar",
+    "rating": 5,
+    "review": "Fits perfectly. The floral patterns look very classy. 👍"
+  },
+  {
+    "name": "Falguni Banerjee",
+    "rating": 3,
+    "review": "Fabric is thin and quality could have been better. Average product. 😐"
+  },
+  {
+    "name": "Riya Dutta",
+    "rating": 5,
+    "review": "Bought this for my mother. She loved the soft fabric and comfortable fitting. Simple yet very elegant printed co-ord set. 🥰"
+  },
+  {
+    "name": "Savitri Vaghela",
+    "rating": 5,
+    "review": "Gifted to my sister and she absolutely loved the style. 🥰"
+  },
+  {
+    "name": "Devendra Sandhu",
+    "rating": 5,
+    "review": "Super comfy outfit! Got many compliments today. 😊"
+  },
+  {
+    "name": "Ketul Anand",
+    "rating": 5,
+    "review": "Kapdu khub j soft che and trouser fitting pan perfect che. Wore it for an outing and got many compliments. Very satisfied. 😊"
+  },
+  {
+    "name": "Purvi Vyas",
+    "rating": 5,
+    "review": "Excellent dress for office or casual outing. Stitching is very neat. Trousers have a decent width, not too loose. Highly recommend. 👍"
+  },
+  {
+    "name": "Lalita Pandey",
+    "rating": 5,
+    "review": "Absolutely in love with this midnight flora and geometric print co-ord set! The print design is highly fashionable and gives a very classy silhouette. The fabric is extremely soft, breathable, and flowy, making it very comfortable to wear for long office hours. Trousers are well-tailored and fit comfortably around the waist. Highly recommended for hot summers! ❤️"
+  },
+  {
+    "name": "Chirag Hegde",
+    "rating": 4,
+    "review": "Bahu comfortable set che. Fabric is soft but wrinkles easily. ❤️"
+  },
+  {
+    "name": "Nisha Jadeja",
+    "rating": 5,
+    "review": "Super comfy matching set! The top gives a unique shape and pants are comfortable too. Excellent product under this price range. ❤️"
+  },
+  {
+    "name": "Deepak Nair",
+    "rating": 4,
+    "review": "Kapdu khub j soft che and comfortable. Small thread issue near the neck border, but overall very good under this budget. 👍"
+  },
+  {
+    "name": "Poonam Johal",
+    "rating": 5,
+    "review": "Gifted this to my wife. She loved the comfortable feel and floral design. Trousers fitting is also perfect. Value for money."
+  },
+  {
+    "name": "Mamta Vyas",
+    "rating": 4,
+    "review": "The midnight blue co-ord set looks very pretty and fabric is comfortable. The only issue is that the pants are slightly long for my height, will need minor alterations. Good product."
+  },
+  {
+    "name": "Mamta Ruparelia",
+    "rating": 5,
+    "review": "Pants are very comfortable and have soft elastic waistband. 🥰"
+  },
+  {
+    "name": "Anuj Shinde",
+    "rating": 5,
+    "review": "Bought this co-ord set for my mother and she absolutely loves it. She finds the material highly breathable and comfortable for long hours. The floral design is simple yet modern, and the matching trousers are very comfortable. Stitching is durable and print quality is premium. Thank you! 👍"
+  },
+  {
+    "name": "Geeta Dutta",
+    "rating": 5,
+    "review": "Love the midnight blue base and floral prints. So elegant! ❤️"
+  },
+  {
+    "name": "Ritu Vaghela",
+    "rating": 5,
+    "review": "Wore this to a casual get-together and received many compliments. Fabric khub soft che and dark blue shade looks premium. Happy buy! ❤️"
+  },
+  {
+    "name": "Indira Sen",
+    "rating": 5,
+    "review": "Love the midnight flora prints on this set. Looks very elegant. Fabric is breathable and perfect for everyday wear. Fits true to size. 👍"
+  },
+  {
+    "name": "Uma Arora",
+    "rating": 5,
+    "review": "Bahu saro and comfortable dress che. Fabric behaves well after washing, no shrinkage. Geometric details look fresh and rich. 🥰"
+  },
+  {
+    "name": "Prem Rao",
+    "rating": 5,
+    "review": "Modern neck design, perfect for office and outings."
   }
 ]

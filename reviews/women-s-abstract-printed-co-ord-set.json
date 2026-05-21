@@ -1,32 +1,197 @@
 [
   {
-    "name": "Deepak Rao",
+    "name": "Rajesh Chavda",
     "rating": 5,
-    "review": "Good quality material."
+    "review": "Ordered for my wife and she looks extremely pretty. ❤️"
   },
   {
-    "name": "Swati Kadam",
+    "name": "Babita Sen",
     "rating": 5,
-    "review": "Absolutely gorgeous!"
+    "review": "Kapdu khub j soft che and trouser fitting pan perfect che. Wore it for an outing and got many compliments. Very satisfied. 😊"
   },
   {
-    "name": "Siddharth Jain",
+    "name": "Vaishali Sandhu",
+    "rating": 5,
+    "review": "Abstract shapes look very stylish. Perfect casual look."
+  },
+  {
+    "name": "Harsh Bansal",
+    "rating": 5,
+    "review": "Wore this to a casual function and received many compliments. Fabric khub soft che and navy blue background looks elegant. Happy buy! ❤️"
+  },
+  {
+    "name": "Reena Chopra",
+    "rating": 5,
+    "review": "Gifted to my sister, she absolutely loved the design. 🥰"
+  },
+  {
+    "name": "Bina Sood",
+    "rating": 5,
+    "review": "Bahu saro and comfortable abstract printed set che."
+  },
+  {
+    "name": "Hemant Mehra",
+    "rating": 5,
+    "review": "Stitching quality is top class, and prints look premium. The length of the top is just perfect. Great summer wear, highly recommend!"
+  },
+  {
+    "name": "Sarita Dhillon",
+    "rating": 5,
+    "review": "Modern neck design, perfect for office and lounge wear."
+  },
+  {
+    "name": "Arjun Nambisan",
+    "rating": 3,
+    "review": "Fabric is thin and quality could have been better. Average product. 😐"
+  },
+  {
+    "name": "Harsh Aggarwal",
+    "rating": 5,
+    "review": "Bahut comfortable and lightweight set. Color combination matches the description exactly. Elastic on the pants is very soft. 👌"
+  },
+  {
+    "name": "Hardik Hegde",
+    "rating": 5,
+    "review": "Nice daily wear printed set. Fabric quality is very premium. Fitting pan perfect che. Delivered on time and packaging was neat."
+  },
+  {
+    "name": "Harsh Zala",
     "rating": 4,
-    "review": "Got many compliments wearing this."
+    "review": "Fabric is soft and very comfy for daily use. Sizing is slightly on the looser side, but still looks good on body. Fast delivery. 😊"
   },
   {
-    "name": "Neha Sharma",
-    "rating": 5,
-    "review": "Looks premium and elegant."
-  },
-  {
-    "name": "Snehal Kulkarni",
+    "name": "Riya Joshi",
     "rating": 4,
-    "review": "Smooth texture and perfect size."
+    "review": "Kapdu khub j soft che and comfortable. Small thread issue near the neck border, but overall very good under this budget. 👍"
   },
   {
-    "name": "Surali Patel",
+    "name": "Heena Johal",
     "rating": 5,
-    "review": "A must-buy for this season."
+    "review": "Fits perfectly. The prints look very fresh and funky. 👍"
+  },
+  {
+    "name": "Savitri Shetty",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Print looks nice, overall happy with buy. 😊"
+  },
+  {
+    "name": "Prathmesh Sharma",
+    "rating": 5,
+    "review": "No color bleeding or shrinking after first wash. Great quality. 👍"
+  },
+  {
+    "name": "Sanya Gill",
+    "rating": 4,
+    "review": "Good co-ord set, fabric is soft but delivery was slightly delayed."
+  },
+  {
+    "name": "Babita Jadeja",
+    "rating": 4,
+    "review": "Bahu comfortable set che. Fabric is soft but wrinkles easily. ❤️"
+  },
+  {
+    "name": "Krupa Shukla",
+    "rating": 5,
+    "review": "Kapdu bahut soft and comfortable che. The abstract prints look very modern and trendy. Stitching is very clean, and there are no loose threads at all. The trousers have a great elastic waistband which is comfortable for daily wear. Wore it to my college and got many compliments. Washes well, did not shrink. 😊"
+  },
+  {
+    "name": "Ishita Jha",
+    "rating": 5,
+    "review": "Amazing summer wear, lightweight and highly breathable. 😊"
+  },
+  {
+    "name": "Kavya Shetty",
+    "rating": 4,
+    "review": "The printed fabric quality is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the abstract print looks very smart. However, the sizing of the top is slightly on the looser side. I ordered Medium but it feels a bit loose. Wrinkles easily. Otherwise, a very decent daily wear set. 😊"
+  },
+  {
+    "name": "Dhruv Nambiar",
+    "rating": 5,
+    "review": "Love the abstract prints on this set. Looks very elegant. Fabric is breathable and perfect for everyday wear. Fits true to size. 👍"
+  },
+  {
+    "name": "Sonal Dwivedi",
+    "rating": 4,
+    "review": "The abstract co-ord set looks very pretty and fabric is comfortable. The only issue is that the pants are slightly long for my height, will need minor alterations. Good product."
+  },
+  {
+    "name": "Charu Sidhu",
+    "rating": 5,
+    "review": "Excellent dress for office or casual outing. Stitching is very neat. Trousers have a decent width, not too loose. Highly recommend. 👍"
+  },
+  {
+    "name": "Usha Jha",
+    "rating": 5,
+    "review": "Bought this co-ord set for my mother and she absolutely loves it. She finds the material highly breathable and comfortable for long hours. The abstract design is simple yet modern, and the matching trousers are very comfortable. Stitching is durable and print quality is premium. Thank you! 👍"
+  },
+  {
+    "name": "Lata Dubey",
+    "rating": 5,
+    "review": "Bahut hi comfortable fabric hai. Value for money buy."
+  },
+  {
+    "name": "Babita Solanki",
+    "rating": 4,
+    "review": "Fits well. Sizing is true to size chart. Decent purchase. 👌"
+  },
+  {
+    "name": "Kiran Nambiar",
+    "rating": 3,
+    "review": "Material is soft but it shrunk a little after first wash, making the length shorter. Sizing fits a bit tight around chest. Okay product."
+  },
+  {
+    "name": "Ketul Mehta",
+    "rating": 4,
+    "review": "Nice fit and style. Pants elastic is comfortable. Good product. 👍"
+  },
+  {
+    "name": "Lalita Shah",
+    "rating": 3,
+    "review": "Average fit. Color looks slightly different from the photo. 😕"
+  },
+  {
+    "name": "Purvi Jindal",
+    "rating": 5,
+    "review": "Fitting pan ekdam perfect che. Very happy with purchase."
+  },
+  {
+    "name": "Dhruv Kapoor",
+    "rating": 5,
+    "review": "Fabulous abstract design, so colorful and vibrant. ❤️"
+  },
+  {
+    "name": "Kavya Vyas",
+    "rating": 5,
+    "review": "Super comfy matching set! The top gives a unique shape and pants are comfortable too. Excellent product under this price range. ❤️"
+  },
+  {
+    "name": "Priti Narang",
+    "rating": 5,
+    "review": "Stitching is very clean and colors are very bright. 👌"
+  },
+  {
+    "name": "Kusum Pillai",
+    "rating": 5,
+    "review": "Absolutely in love with this abstract printed co-ord set! The print design is highly fashionable and gives a very classy silhouette. The fabric is extremely soft, breathable, and flowy, making it very comfortable to wear for long office hours. Trousers are well-tailored and fit comfortably around the waist. Highly recommended for hot summers! ❤️"
+  },
+  {
+    "name": "Riya Trivedi",
+    "rating": 5,
+    "review": "Gifted this to my wife. She loved the comfortable feel and abstract design. Trousers fitting is also perfect. Value for money."
+  },
+  {
+    "name": "Tarun Patil",
+    "rating": 5,
+    "review": "Very stylish co-ord set! Material is soft and cooling for summers. Neck stitching is clean and details look premium. Good delivery speed. 😊"
+  },
+  {
+    "name": "Prem Kapoor",
+    "rating": 5,
+    "review": "I ordered this abstract printed co-ord set for my daughter. She really liked the modern shapes and the soft fabric. Fits very nicely. 😊"
+  },
+  {
+    "name": "Dhara Johal",
+    "rating": 5,
+    "review": "Bahu saro and comfortable dress che. Fabric behaves well after washing, no shrinkage. Abstract prints look fresh and rich. 🥰"
   }
 ]

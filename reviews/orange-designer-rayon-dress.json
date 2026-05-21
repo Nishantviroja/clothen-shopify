@@ -1,27 +1,232 @@
 [
   {
-    "name": "Priyanka Saxena",
+    "name": "Riya Pillai",
     "rating": 5,
-    "review": "Absolutely gorgeous!"
+    "review": "Breathable fabric and smart shirt collar look. Nice flowy dress."
   },
   {
-    "name": "Deepak Rao",
-    "rating": 5,
-    "review": "Simply superb."
-  },
-  {
-    "name": "Anjali Desai",
+    "name": "Supriya Banerjee",
     "rating": 4,
-    "review": "A must-buy for this season."
+    "review": "Smart shirt collar design. Perfect for office wear. Drawstring is good."
   },
   {
-    "name": "Pooja Gupta",
-    "rating": 4,
-    "review": "Stitching is flawless."
-  },
-  {
-    "name": "Vijay Bhatia",
+    "name": "Uma Dalal",
     "rating": 5,
-    "review": "My new favorite outfit."
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Pooja Vyas",
+    "rating": 5,
+    "review": "Kapdu bahut soft che. It looks smart and you can wear it all day without any discomfort. The V-neck collar neck looks very professional for office wear. Stitching is very clean and buttons are sturdy. A perfect blend of comfort and style. 🥰"
+  },
+  {
+    "name": "Rashmi Bhatia",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Gauri Gore",
+    "rating": 5,
+    "review": "Loved the design and fit. The drawstring ties at the waist are so nice with those small golden beads. Very classy look."
+  },
+  {
+    "name": "Ankita Solanki",
+    "rating": 5,
+    "review": "Rayon quality is premium and buttons are sturdy. Worth the price."
+  },
+  {
+    "name": "Sonakshi Yadav",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Swati Agarwal",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Alka Sood",
+    "rating": 5,
+    "review": "Very comfortable dress. Fabric touch is soft on skin."
+  },
+  {
+    "name": "Ayush Shetty",
+    "rating": 5,
+    "review": "Gifted to my mummy on her birthday. Fitting pan perfect che and fabric is very light and comfortable. She liked it a lot. 👍"
+  },
+  {
+    "name": "Shilpa Das",
+    "rating": 5,
+    "review": "Breathable fabric and smart shirt collar look. Nice flowy dress."
+  },
+  {
+    "name": "Kalyani Goel",
+    "rating": 5,
+    "review": "Stitching and buttons quality is high class. Pockets are actual lifesavers. Very comfortable summer wear. 😊"
+  },
+  {
+    "name": "Namrata Talwar",
+    "rating": 4,
+    "review": "Purchased for daily use. The button-down look and tassels look premium. Material is breathable and soft. Only issue is color is slightly different from picture. Otherwise, value for money and fits nicely."
+  },
+  {
+    "name": "Vineet Pai",
+    "rating": 5,
+    "review": "Gifted to my mummy on her birthday. Fitting pan perfect che and fabric is very light and comfortable. She liked it a lot. 👍"
+  },
+  {
+    "name": "Chaitali Sood",
+    "rating": 5,
+    "review": "Loved the design and fit. The drawstring ties at the waist are so nice with those small golden beads. Very classy look."
+  },
+  {
+    "name": "Radha Nair",
+    "rating": 5,
+    "review": "Fabric khub soft che and fitting pan mast che. ❤️"
+  },
+  {
+    "name": "Avani Kapadiya",
+    "rating": 5,
+    "review": "Amazing flowy dress! Rayon material quality is super, stitching is flawless. V-neck shirt collar look looks very smart. 👍"
+  },
+  {
+    "name": "Parag Kamath",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Suhas Nair",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Sushma Kaur",
+    "rating": 5,
+    "review": "Rayon quality is premium and buttons are sturdy. Worth the price."
+  },
+  {
+    "name": "Ankita Bhatia",
+    "rating": 4,
+    "review": "Good fit but fabric needs light ironing after wash. 👍"
+  },
+  {
+    "name": "Amrita Mittal",
+    "rating": 5,
+    "review": "Amazing flowy dress! Rayon material quality is super, stitching is flawless. V-neck shirt collar look looks very smart. 👍"
+  },
+  {
+    "name": "Rani Bhatt",
+    "rating": 5,
+    "review": "Super comfortable dress. Office wear ke liye ekdam perfect hai. 😊"
+  },
+  {
+    "name": "Jyoti Patil",
+    "rating": 4,
+    "review": "The bright orange color is beautiful but slightly darker than the picture. 😊"
+  },
+  {
+    "name": "Aradhana Chauhan",
+    "rating": 5,
+    "review": "Fabric khub soft che and fitting pan mast che. ❤️"
+  },
+  {
+    "name": "Varsha Rawal",
+    "rating": 5,
+    "review": "V-neck collar design looks very elegant. Highly recommended! 👍"
+  },
+  {
+    "name": "Leela Anand",
+    "rating": 5,
+    "review": "V-neck collar design looks very elegant. Highly recommended! 👍"
+  },
+  {
+    "name": "Simran Nair",
+    "rating": 4,
+    "review": "Nice daily wear outfit. Sturdy gold buttons and good quality fabric."
+  },
+  {
+    "name": "Sandhya Shah",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Jyoti Iyer",
+    "rating": 4,
+    "review": "Purchased for daily use. The button-down look and tassels look premium. Material is breathable and soft. Only issue is color is slightly different from picture. Otherwise, value for money and fits nicely."
+  },
+  {
+    "name": "Dolly Anand",
+    "rating": 5,
+    "review": "Just loved the fit! Soft rayon and pockets are very convenient. 👍"
+  },
+  {
+    "name": "Vidya Choudhury",
+    "rating": 4,
+    "review": "Good quality rayon dress. The collar style looks professional. Length is slightly longer than expected but fits well otherwise."
+  },
+  {
+    "name": "Hardik D'Souza",
+    "rating": 5,
+    "review": "Purchased for my wife. The bright orange color is very classy and the waist drawstring gives a perfect fit. Recommended! ❤️"
+  },
+  {
+    "name": "Yogita Bansal",
+    "rating": 4,
+    "review": "Smart shirt collar design. Perfect for office wear. Drawstring is good."
+  },
+  {
+    "name": "Raveena Grover",
+    "rating": 5,
+    "review": "Just loved the fit! Soft rayon and pockets are very convenient. 👍"
+  },
+  {
+    "name": "Pranav Das",
+    "rating": 5,
+    "review": "Purchased for my wife. The peachish orange color is very classy and the waist drawstring gives a perfect fit. Recommended! ❤️"
+  },
+  {
+    "name": "Sanjana Narang",
+    "rating": 5,
+    "review": "Kapdu bahut soft che. It looks smart and you can wear it all day without any discomfort. The V-neck collar neck looks very professional for office wear. Stitching is very clean and buttons are sturdy. A perfect blend of comfort and style. 🥰"
+  },
+  {
+    "name": "Hemal Mishra",
+    "rating": 5,
+    "review": "I bought this for my sister. Quality of stitching and material is really premium. She is very happy with it. 😊"
+  },
+  {
+    "name": "Sonam Sood",
+    "rating": 5,
+    "review": "Rayon quality is premium and buttons are sturdy. Worth the price."
+  },
+  {
+    "name": "Sudarshan Hegde",
+    "rating": 5,
+    "review": "Purchased for my wife. The rust orange color is very classy and the waist drawstring gives a perfect fit. Recommended! ❤️"
+  },
+  {
+    "name": "Varsha More",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Supriya Choudhury",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Amrita Bhatia",
+    "rating": 4,
+    "review": "Purchased for daily use. The button-down look and tassels look premium. Material is breathable and soft. Only issue is color is slightly different from picture. Otherwise, value for money and fits nicely."
+  },
+  {
+    "name": "Aishwarya Sharma",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Seema Bose",
+    "rating": 5,
+    "review": "Fabric khub soft che and fitting pan mast che. ❤️"
   }
 ]

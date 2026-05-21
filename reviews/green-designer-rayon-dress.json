@@ -1,12 +1,197 @@
 [
   {
-    "name": "Rohan Das",
-    "rating": 5,
-    "review": "Perfect fitting and print quality."
+    "name": "Sharda Khanna",
+    "rating": 4,
+    "review": "The emerald green color is very nice, though slightly darker than the product photos. Rayon fabric is soft and the pockets are very useful. Sleeves are a bit loose on me, but adjusting the drawstring at the waist makes it look smart. Good purchase overall for casual outing. 👍"
   },
   {
-    "name": "Karan Malhotra",
+    "name": "Sonal Rawal",
     "rating": 5,
-    "review": "Great value for money."
+    "review": "V-neck collar design looks very elegant. Highly recommended! 👍"
+  },
+  {
+    "name": "Suman Nambiar",
+    "rating": 5,
+    "review": "The green shade is so beautiful and perfect. Fabric is super soft rayon and the side pockets are very deep and handy! Perfect for office and outings. 🥰"
+  },
+  {
+    "name": "Abhishek Trivedi",
+    "rating": 4,
+    "review": "Bought this for my mother. Fitting is true to size and fabric is very soft. Slight delay in shipping but happy with product. 😊"
+  },
+  {
+    "name": "Kalyani Shinde",
+    "rating": 4,
+    "review": "Good quality rayon dress. The collar style looks professional. Length is slightly longer than expected but fits well otherwise."
+  },
+  {
+    "name": "Amrita Chauhan",
+    "rating": 4,
+    "review": "Purchased for daily use. The button-down look and tassels look premium. Material is breathable and soft. Only issue is color is slightly different from picture. Otherwise, value for money and fits nicely."
+  },
+  {
+    "name": "Shalini Fernandez",
+    "rating": 5,
+    "review": "Very comfortable dress. Fabric touch is soft on skin."
+  },
+  {
+    "name": "Prerna Anand",
+    "rating": 4,
+    "review": "Nice material, very comfortable for office. Delivery was slightly late."
+  },
+  {
+    "name": "Manju Oberoi",
+    "rating": 4,
+    "review": "The mehendi green color is very nice, though slightly darker than the product photos. Rayon fabric is soft and the pockets are very useful. Sleeves are a bit loose on me, but adjusting the drawstring at the waist makes it look smart. Good purchase overall for casual outing. 👍"
+  },
+  {
+    "name": "Mohit Desai",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Vaishali Nambiar",
+    "rating": 4,
+    "review": "The green color is very nice, though slightly darker than the product photos. Rayon fabric is soft and the pockets are very useful. Sleeves are a bit loose on me, but adjusting the drawstring at the waist makes it look smart. Good purchase overall for casual outing. 👍"
+  },
+  {
+    "name": "Raj Wadhwa",
+    "rating": 5,
+    "review": "I ordered this for my wife and she loved it. Fit is true to size."
+  },
+  {
+    "name": "Gauri Chauhan",
+    "rating": 4,
+    "review": "Loved the look. Sleeves are a little loose on me but overall nice fit. 👍"
+  },
+  {
+    "name": "Vikram Gore",
+    "rating": 5,
+    "review": "I ordered this for my wife and she loved it. Fit is true to size."
+  },
+  {
+    "name": "Payal Pillai",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Sushma Mistry",
+    "rating": 5,
+    "review": "Just loved the fit! Soft rayon and pockets are very convenient. 👍"
+  },
+  {
+    "name": "Rohit Kapoor",
+    "rating": 5,
+    "review": "I ordered this for my wife and she loved it. Fit is true to size."
+  },
+  {
+    "name": "Rupa Shah",
+    "rating": 4,
+    "review": "Nice material, very comfortable for office. Delivery was slightly late."
+  },
+  {
+    "name": "Tanu Iyer",
+    "rating": 4,
+    "review": "Nice daily wear outfit. Sturdy gold buttons and good quality fabric."
+  },
+  {
+    "name": "Isha Dave",
+    "rating": 4,
+    "review": "Nice material, very comfortable for office. Delivery was slightly late."
+  },
+  {
+    "name": "Geeta Solanki",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Anusha Singh",
+    "rating": 5,
+    "review": "Best purchase of this month. Perfect fit and design. 🥰"
+  },
+  {
+    "name": "Naveen Rawal",
+    "rating": 4,
+    "review": "Good gift choice. My wife liked the color and pockets. Stitched well, worth the price."
+  },
+  {
+    "name": "Payal Rao",
+    "rating": 5,
+    "review": "Nice pocket space, very comfortable. Value for money. 😊"
+  },
+  {
+    "name": "Radha Gogia",
+    "rating": 4,
+    "review": "Good fit but fabric needs light ironing after wash. 👍"
+  },
+  {
+    "name": "Hardik Jain",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Shalini Shetty",
+    "rating": 4,
+    "review": "The emerald green color is beautiful but slightly darker than the picture. 😊"
+  },
+  {
+    "name": "Sandhya Sarma",
+    "rating": 4,
+    "review": "Good quality rayon dress. The collar style looks professional. Length is slightly longer than expected but fits well otherwise."
+  },
+  {
+    "name": "Anoop Patil",
+    "rating": 4,
+    "review": "Good gift choice. My wife liked the color and pockets. Stitched well, worth the price."
+  },
+  {
+    "name": "Madhavi Banerjee",
+    "rating": 4,
+    "review": "The green color is beautiful but slightly darker than the picture. 😊"
+  },
+  {
+    "name": "Jaya Bhatia",
+    "rating": 4,
+    "review": "Very comfortable dress for summers. The V-collar design looks very smart and stitching is neat. Fabric is soft but gets crumpled easily after wash, so needs good ironing. Delivery was delayed by 2 days, but the product quality is nice. 😊"
+  },
+  {
+    "name": "Pooja Pandey",
+    "rating": 5,
+    "review": "Amazing flowy dress! Rayon material quality is super, stitching is flawless. V-neck shirt collar look looks very smart. 👍"
+  },
+  {
+    "name": "Sanchita Tiwari",
+    "rating": 5,
+    "review": "V-neck collar design looks very elegant. Highly recommended! 👍"
+  },
+  {
+    "name": "Priyanka Mehra",
+    "rating": 5,
+    "review": "Nice pocket space, very comfortable. Value for money. 😊"
+  },
+  {
+    "name": "Sushma Pandey",
+    "rating": 4,
+    "review": "Good quality rayon dress. The collar style looks professional. Length is slightly longer than expected but fits well otherwise."
+  },
+  {
+    "name": "Rupa Shenoy",
+    "rating": 5,
+    "review": "Loved the design and fit. The drawstring ties at the waist are so nice with those small golden beads. Very classy look."
+  },
+  {
+    "name": "Pramod Kapadiya",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Avani Jha",
+    "rating": 5,
+    "review": "Nice pocket space, very comfortable. Value for money. 😊"
+  },
+  {
+    "name": "Sunil Bhatia",
+    "rating": 5,
+    "review": "Gifted to my mummy on her birthday. Fitting pan perfect che and fabric is very light and comfortable. She liked it a lot. 👍"
   }
 ]

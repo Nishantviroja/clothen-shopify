@@ -1,37 +1,237 @@
 [
   {
-    "name": "Geeta Jha",
+    "name": "Kabir Banerjee",
     "rating": 5,
-    "review": "Smooth texture and perfect size."
+    "review": "Bahut hi soft fabric and sky blue color is very bright. Adjusts well to the body and gives a smart look. Happy with the purchase."
   },
   {
-    "name": "Karthik Krishnan",
+    "name": "Renu Chatterjee",
     "rating": 5,
-    "review": "Exceeded my expectations!"
+    "review": "Bahu saro and comfortable sky blue set che. Recommended!"
   },
   {
-    "name": "Rahul Verma",
+    "name": "Dhruv Bansal",
     "rating": 5,
-    "review": "Looks premium and elegant."
+    "review": "Refreshing sky blue color, linen quality is awesome. ❤️"
   },
   {
-    "name": "Sunita Thakur",
+    "name": "Rakesh Gupta",
+    "rating": 5,
+    "review": "Mummy loved the soft sky blue linen material, very comfortable."
+  },
+  {
+    "name": "Pratyush Shah",
+    "rating": 5,
+    "review": "Got it at a great discount. Totally worth every rupee. 😊"
+  },
+  {
+    "name": "Rahul Shetty",
+    "rating": 5,
+    "review": "Bahu saro and comfortable matching set che. Linen material doesn't shrink or fade after wash. The prints/style look very fresh. 🥰"
+  },
+  {
+    "name": "Yamini Choudhary",
+    "rating": 5,
+    "review": "Nice sky blue color. The fabric quality is very premium linen. Fitting pan perfect che. Delivered on time and packaging was neat."
+  },
+  {
+    "name": "Ridhi Dubey",
+    "rating": 5,
+    "review": "Gifted this to my wife. She loved the comfortable feel and refreshing sky blue look. Trousers fitting is also perfect. Value for money."
+  },
+  {
+    "name": "Seema Pillai",
+    "rating": 5,
+    "review": "I ordered this sky blue linen co-ord set for my daughter. She really liked the refreshing color and the soft linen material. Fits very nicely. 😊"
+  },
+  {
+    "name": "Aryan Chavda",
+    "rating": 5,
+    "review": "This sky blue linen co-ord set exceeded my expectations! The fabric is high quality linen, very flowy and soft on the skin. The color is distinct and elegant. The trousers are breathable and have a good stretch. Did not experience any shrinkage after hand wash. Perfect for office wear or a casual weekend outing. Extremely satisfied with this buy! 🥰"
+  },
+  {
+    "name": "Arav Vaghela",
+    "rating": 5,
+    "review": "Very nice neck pattern and sleeves length is comfortable."
+  },
+  {
+    "name": "Purvi Das",
     "rating": 4,
-    "review": "Will definitely buy again."
+    "review": "Good sky blue co-ord set, fabric is soft but delivery was a bit slow."
   },
   {
-    "name": "Arjun Mehta",
+    "name": "Arnav Mittal",
     "rating": 5,
-    "review": "A must-buy for this season."
+    "review": "Excellent quality co-ord set. Fits perfectly. 🥰"
   },
   {
-    "name": "Snehal Kulkarni",
+    "name": "Mohit Shinde",
     "rating": 5,
-    "review": "Very stylish and trendy."
+    "review": "I was looking for a stylish yet comfortable matching set for daily use, and this sky blue linen one is absolutely perfect. The fabric is extremely soft and light, doesn't feel warm at all. The cut of the top gives a very modern shape which I love. Pants have a perfect fit and are very comfortable around the waist. Great value for money daily wear outfit! 👍"
   },
   {
-    "name": "Rohit Chauhan",
+    "name": "Jignesh Sethi",
     "rating": 5,
-    "review": "Stitching is flawless."
+    "review": "Fitting pan ekdam perfect che. Very happy with purchase."
+  },
+  {
+    "name": "Aarav Sandhu",
+    "rating": 5,
+    "review": "Love the sky blue shade. Looks very elegant. Linen fabric is breathable and perfect for everyday wear. Fitting runs true to size. 👍"
+  },
+  {
+    "name": "Karan Sharma",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Color looks nice, overall happy with buy."
+  },
+  {
+    "name": "Sanjay Chauhan",
+    "rating": 5,
+    "review": "Bought this for my mother. She loved the soft fabric and comfortable fitting. Simple yet very elegant printed co-ord set. 🥰"
+  },
+  {
+    "name": "Nisha Das",
+    "rating": 5,
+    "review": "Kapdu khub j soft che and trouser fitting pan perfect che. Wore it for an outing and got many compliments. Very satisfied. 😊"
+  },
+  {
+    "name": "Mamta Menon",
+    "rating": 4,
+    "review": "Fabric is soft linen, very comfy for daily use. Sizing is slightly on the looser side, but still looks good. Fast delivery. 😊"
+  },
+  {
+    "name": "Vandana Mittal",
+    "rating": 5,
+    "review": "Bahut hi comfortable sky blue fabric hai. Value for money buy."
+  },
+  {
+    "name": "Gaurav Chopra",
+    "rating": 5,
+    "review": "Amazing summer outfit. Flowy and breathable linen fabric. 😊"
+  },
+  {
+    "name": "Kartik Sood",
+    "rating": 4,
+    "review": "Nice fit and style. Pants elastic is comfortable. Good product. 👍"
+  },
+  {
+    "name": "Shruti Jha",
+    "rating": 5,
+    "review": "Gifted this to my wife and she looks so pretty in it. 🥰"
+  },
+  {
+    "name": "Avani Gohil",
+    "rating": 5,
+    "review": "Nice color combination. The pattern looks very attractive. Material is soft, lightweight and flowy. Perfect for everyday wear. 👍"
+  },
+  {
+    "name": "Sarita Rathod",
+    "rating": 5,
+    "review": "The neckline gives a very stylish boutique look. Perfect."
+  },
+  {
+    "name": "Vineet Sharma",
+    "rating": 5,
+    "review": "Very elegant design. Nice for office and outings. ❤️"
+  },
+  {
+    "name": "Shweta Banerjee",
+    "rating": 5,
+    "review": "Absolutely in love with this sky blue linen co-ord set! The refreshing blue color is highly fashionable and gives a very modern silhouette. The linen material is extremely soft, breathable, and flowy, making it very comfortable to wear for long hours. Trousers are well-tailored and fit comfortably around the waist. Highly recommended for hot summers! ❤️"
+  },
+  {
+    "name": "Bina Zala",
+    "rating": 4,
+    "review": "The sky blue co-ord set looks very pretty and fabric is comfortable. The only issue is that the pants are slightly long for my height, will need minor alterations. Good product."
+  },
+  {
+    "name": "Simran Nambisan",
+    "rating": 5,
+    "review": "Beautiful light blue color, stitching is neat and durable."
+  },
+  {
+    "name": "Renu Bansal",
+    "rating": 5,
+    "review": "Really liked the pattern of the top. The pants are very comfortable and airy. Perfect sky blue dress for regular wear. 👌"
+  },
+  {
+    "name": "Rekha Mehta",
+    "rating": 5,
+    "review": "Stitching quality is top class, and color looks premium. The length of the top is just perfect. Great summer wear, highly recommend!"
+  },
+  {
+    "name": "Aman Shetty",
+    "rating": 5,
+    "review": "Wore this to a casual function and received many compliments. Fabric khub soft che and the sky blue shade looks beautiful. Happy buy! ❤️"
+  },
+  {
+    "name": "Deepa Sidhu",
+    "rating": 5,
+    "review": "Kapdu bahut soft linen che. The cut of the top looks very modern and trendy. Stitching is very clean, and there are no loose threads at all. The pants are extremely comfortable and the length is just right for average Indian height. Wore it to my college and got many compliments. Washes well, did not shrink. Will buy another color too. 😊"
+  },
+  {
+    "name": "Madhavi Garg",
+    "rating": 5,
+    "review": "Ordered for my sister and she was praising the soft fabric."
+  },
+  {
+    "name": "Saurabh Singh",
+    "rating": 5,
+    "review": "Modern cut, color is exactly same as shown in photos."
+  },
+  {
+    "name": "Dhara Dubey",
+    "rating": 5,
+    "review": "Pants fitting is extremely comfortable with elastic waist."
+  },
+  {
+    "name": "Harsh Chauhan",
+    "rating": 5,
+    "review": "Super comfy matching set! The top gives a unique shape and pants are comfortable too. Excellent product under this price range. ❤️"
+  },
+  {
+    "name": "Suhana Johal",
+    "rating": 5,
+    "review": "Kapdu khub j soft and premium quality che. 👌"
+  },
+  {
+    "name": "Mohit Solanki",
+    "rating": 5,
+    "review": "Bought this co-ord set for my mother and she absolutely loves it. She finds the linen material highly breathable and comfortable for long hours. The design is simple yet modern, and the trousers are very comfortable for daily chores. Stitching is durable and color quality is premium. Thank you for the fast delivery! 👍"
+  },
+  {
+    "name": "Dev Zala",
+    "rating": 5,
+    "review": "No color fading or shrinking after first wash. 👍"
+  },
+  {
+    "name": "Raj Grewal",
+    "rating": 5,
+    "review": "Great fit and soft fabric. Stitching and finishing are high class. The sky blue color stands out nicely. Best choice for office or market. ❤️"
+  },
+  {
+    "name": "Ananya Malhotra",
+    "rating": 5,
+    "review": "Loved the matching trousers and top. Perfect summer fit. 👍"
+  },
+  {
+    "name": "Charu Dubey",
+    "rating": 5,
+    "review": "Perfect length and flare. Looks very elegant. 👍"
+  },
+  {
+    "name": "Nitin Deshmukh",
+    "rating": 5,
+    "review": "Bahut comfortable and lightweight set hai. Perfect for hot summer days. The elastic on the trousers is very soft and doesn't hurt. 👌"
+  },
+  {
+    "name": "Anjali Khanna",
+    "rating": 5,
+    "review": "Excellent dress for office or casual get-together. Stitching is very neat. Trousers have a decent width, not too loose. Highly recommend. 👍"
+  },
+  {
+    "name": "Komal Deol",
+    "rating": 5,
+    "review": "Very stylish co-ord set! Linen cloth is soft and thanda for summer. Neck stitching is clean and details are premium. Good delivery speed. 😊"
   }
 ]

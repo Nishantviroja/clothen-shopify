@@ -1,17 +1,167 @@
 [
   {
-    "name": "Sneha Joshi",
+    "name": "Sarita Tripathi",
+    "rating": 5,
+    "review": "Bahut hi pyara brown co-ord set. Stitching is very clean and finishing is neat. Fabric quality is high grade. Fit is exactly as per size chart. 👌"
+  },
+  {
+    "name": "Jignesh Mukherjee",
+    "rating": 5,
+    "review": "Best buy for ethnic outfit lovers. The fabric is lightweight and doesn't require heavy ironing. The brown shade looks very rich and stylish. Must buy!"
+  },
+  {
+    "name": "Simran Jha",
+    "rating": 5,
+    "review": "Bahut comfortable matching set. Cloth is soft and thanda for summer. Neck stitching is neat and details look premium. Good delivery speed. 😊"
+  },
+  {
+    "name": "Karan Chatterjee",
     "rating": 4,
-    "review": "Good quality material."
+    "review": "Nice fit and style. Pockets are missing but overall good brown set. 👍"
   },
   {
-    "name": "Vikram Rathore",
+    "name": "Shweta Mehra",
     "rating": 5,
-    "review": "The color is exactly as shown in the picture."
+    "review": "Lovely brown ethnic prints, fabric is super soft. ❤️"
   },
   {
-    "name": "Geeta Jha",
+    "name": "Seema Dubey",
     "rating": 5,
-    "review": "My new favorite outfit."
+    "review": "Gifted this brown linen co-ord set to my daughter for her college wear. She is extremely happy with the comfort and design. She was praising the soft fabric material which is ideal for hot summer days. The matching pants look very smart. Stitching is clean and durable. Highly recommend! 👍"
+  },
+  {
+    "name": "Reena Menon",
+    "rating": 5,
+    "review": "Fitting pan perfect che and brown looks very elegant. ❤️"
+  },
+  {
+    "name": "Kusum Aggarwal",
+    "rating": 5,
+    "review": "Very flowy fabric, color did not bleed during wash. 🥰"
+  },
+  {
+    "name": "Jyoti Banerjee",
+    "rating": 5,
+    "review": "Fabric khub j soft che and brown motifs are gorgeous. Wore it for a long journey and felt very relaxed. Trousers have a good elastic waist. Good purchase. ❤️"
+  },
+  {
+    "name": "Padmini Yadav",
+    "rating": 5,
+    "review": "I was looking for a stylish yet comfortable brown co-ord set for daily use, and this ethnic printed one is absolutely perfect. The fabric is extremely soft and light, doesn't feel warm at all. The cut of the top gives a very modern silhouette which I love. Trousers have a perfect fit and are very comfortable around the waist. Great buy! ❤️"
+  },
+  {
+    "name": "Jignesh Shetty",
+    "rating": 5,
+    "review": "Classy ethnic design, looks very elegant. Worth the price."
+  },
+  {
+    "name": "Prathmesh Menon",
+    "rating": 3,
+    "review": "Earthy brown shade looks slightly dull compared to photo. Linen is thin. 😕"
+  },
+  {
+    "name": "Lata Chauhan",
+    "rating": 5,
+    "review": "Bought this for a casual get-together. Fabric is soft and flowy. The matching brown trousers make you look taller. Fitting is true to size."
+  },
+  {
+    "name": "Priyanka Vaghela",
+    "rating": 4,
+    "review": "Fabric is soft and very comfy for daily use. Sizing is slightly on the looser side, but still looks good. Fast delivery. 😊"
+  },
+  {
+    "name": "Chirag Rathore",
+    "rating": 5,
+    "review": "Perfect length for both top and pants. Trousers are loose and airy. Color is very beautiful. Great addition to my summer collection. ❤️"
+  },
+  {
+    "name": "Falguni Pandey",
+    "rating": 5,
+    "review": "Bahu comfortable set che everyday wear mate. The brown top looks very modern. Washed it twice and no color faded. Very satisfied with quality. 👌"
+  },
+  {
+    "name": "Arjun Verma",
+    "rating": 5,
+    "review": "Stitching quality is top class. The brown color is very rich and matching pants look elegant. Ideal for hot summers. Value for money product. 🥰"
+  },
+  {
+    "name": "Nisha Singh",
+    "rating": 5,
+    "review": "I ordered this brown set for my sister. She loved the look and pattern. Fits her perfectly and fabric is soft on skin. Fast shipping. 👍"
+  },
+  {
+    "name": "Gopi Nair",
+    "rating": 5,
+    "review": "Jeve photo ma che exact brown shade che. Very happy. 😊"
+  },
+  {
+    "name": "Garima Verma",
+    "rating": 5,
+    "review": "Perfect fitting and very comfortable for hot summers. 👍"
+  },
+  {
+    "name": "Garima Mukherjee",
+    "rating": 5,
+    "review": "Kapdu khub j soft che. The brown color looks very classy and vibrant. The pattern is stitched very professionally, and the sleeves have a nice comfortable fit. No color bleeding or shrinking during wash. The pant length is perfect for me. Delivery took only 3 days. Will buy more. 😊"
+  },
+  {
+    "name": "Prathmesh Rathore",
+    "rating": 3,
+    "review": "The brown set design is nice, but the quality is average. It is quite thin, so you might need to wear an inner slip under the top. Stitching is okay. 😐"
+  },
+  {
+    "name": "Navya Vyas",
+    "rating": 4,
+    "review": "Fabric is comfortable. Brown shade looks nice, overall happy with buy. 😊"
+  },
+  {
+    "name": "Seema Malhotra",
+    "rating": 5,
+    "review": "Bahu saro brown set che, stitching is excellent. 😊"
+  },
+  {
+    "name": "Utkarsh Narang",
+    "rating": 4,
+    "review": "Good quality brown set, material is soft but shipping was a bit slow."
+  },
+  {
+    "name": "Varun Sanghavi",
+    "rating": 5,
+    "review": "Best summer ethnic co-ord set. Highly recommend! 👍"
+  },
+  {
+    "name": "Rohan Aggarwal",
+    "rating": 4,
+    "review": "Slightly loose on waist but fabric is very soft. 👌"
+  },
+  {
+    "name": "Ridhi Goel",
+    "rating": 5,
+    "review": "Kapda bahut soft hai, pants are very comfortable too. 👌"
+  },
+  {
+    "name": "Harsh Parmar",
+    "rating": 5,
+    "review": "Gifted this brown set to my wife. She liked the soft feel of the fabric and the color. She says it's perfect for her daily office wear. Thank you! 👍"
+  },
+  {
+    "name": "Ajay Zala",
+    "rating": 5,
+    "review": "Really liked the earthy brown color combination. The motifs give it a very traditional yet contemporary look. Fabric is breathable and perfect for office wear. 😊"
+  },
+  {
+    "name": "Neha Sanghavi",
+    "rating": 5,
+    "review": "Gifted to my mother, she is happy with the fit."
+  },
+  {
+    "name": "Richa Dubey",
+    "rating": 5,
+    "review": "Stitching is neat and motifs look very premium. 🥰"
+  },
+  {
+    "name": "Mohit Shukla",
+    "rating": 4,
+    "review": "The brown co-ord set looks very pretty and fabric is comfortable. The only issue is that the trousers are slightly long for my height, will need minor alterations. Good buy. ❤️"
   }
 ]

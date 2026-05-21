@@ -1,22 +1,187 @@
 [
   {
-    "name": "Simran Kaur",
+    "name": "Harini Sinha",
+    "rating": 5,
+    "review": "Rayon quality is premium and buttons are sturdy. Worth the price."
+  },
+  {
+    "name": "Lalita Malhotra",
+    "rating": 5,
+    "review": "Nice pocket space, very comfortable. Value for money. 😊"
+  },
+  {
+    "name": "Swati Oberoi",
+    "rating": 5,
+    "review": "I wore this dark black outfit for a casual day out and got so many compliments! Drawstring lets you adjust waist fitting easily. The fabric is extremely breathable rayon and kept me cool in hot weather. Pocket depth is also good enough to easily carry a mobile phone. Highly recommended for daily wear! ❤️"
+  },
+  {
+    "name": "Aarav Bhatia",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Sudha Kaur",
+    "rating": 5,
+    "review": "Kapdu bahut soft che. It looks smart and you can wear it all day without any discomfort. The V-neck collar neck looks very professional for office wear. Stitching is very clean and buttons are sturdy. A perfect blend of comfort and style. 🥰"
+  },
+  {
+    "name": "Harini Vyas",
+    "rating": 5,
+    "review": "Stitching and buttons quality is high class. Pockets are actual lifesavers. Very comfortable summer wear. 😊"
+  },
+  {
+    "name": "Swati D'Souza",
+    "rating": 5,
+    "review": "Kapdu bahut soft che. It looks smart and you can wear it all day without any discomfort. The V-neck collar neck looks very professional for office wear. Stitching is very clean and buttons are sturdy. A perfect blend of comfort and style. 🥰"
+  },
+  {
+    "name": "Anusha Joshi",
+    "rating": 5,
+    "review": "I wore this dark black outfit for a casual day out and got so many compliments! Drawstring lets you adjust waist fitting easily. The fabric is extremely breathable rayon and kept me cool in hot weather. Pocket depth is also good enough to easily carry a mobile phone. Highly recommended for daily wear! ❤️"
+  },
+  {
+    "name": "Indira Chauhan",
+    "rating": 5,
+    "review": "Nice pocket space, very comfortable. Value for money. 😊"
+  },
+  {
+    "name": "Rashmi Rao",
+    "rating": 5,
+    "review": "Rayon quality is premium and buttons are sturdy. Worth the price."
+  },
+  {
+    "name": "Isha Pai",
+    "rating": 5,
+    "review": "I wore this jet black outfit for a casual day out and got so many compliments! Drawstring lets you adjust waist fitting easily. The fabric is extremely breathable rayon and kept me cool in hot weather. Pocket depth is also good enough to easily carry a mobile phone. Highly recommended for daily wear! ❤️"
+  },
+  {
+    "name": "Kalyani Jain",
+    "rating": 5,
+    "review": "Loved the design and fit. The drawstring ties at the waist are so nice with those small golden beads. Very classy look."
+  },
+  {
+    "name": "Priya Agarwal",
+    "rating": 5,
+    "review": "Super comfortable dress. Office wear ke liye ekdam perfect hai. 😊"
+  },
+  {
+    "name": "Yogita Bose",
+    "rating": 5,
+    "review": "I bought this for my sister. Quality of stitching and material is really premium. She is very happy with it. 😊"
+  },
+  {
+    "name": "Chaitali Pai",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Rajat Goel",
+    "rating": 5,
+    "review": "Gifted this to my wife for our anniversary. Fitting is excellent and the design is very elegant. She loved the pockets and the drawstring tassels at the waist. Rayon fabric is breathable and perfect for summers. Overall very happy with the purchase. 😊"
+  },
+  {
+    "name": "Nithya Hegde",
+    "rating": 5,
+    "review": "Perfect length and fit. The shirt collar and gold buttons down the front give it a very formal yet stylish look. Fabric is pure rayon, very soft on the skin and doesn't shrink after wash. Stitching and finishing are very neat. Excellent value for money product. 👍"
+  },
+  {
+    "name": "Kavita Shah",
+    "rating": 5,
+    "review": "Breathable fabric and smart shirt collar look. Nice flowy dress."
+  },
+  {
+    "name": "Sanjana Chauhan",
+    "rating": 5,
+    "review": "The black shade is so beautiful and perfect. Fabric is super soft rayon and the side pockets are very deep and handy! Perfect for office and outings. 🥰"
+  },
+  {
+    "name": "Komal Tayal",
+    "rating": 5,
+    "review": "I wore this black outfit for a casual day out and got so many compliments! Drawstring lets you adjust waist fitting easily. The fabric is extremely breathable rayon and kept me cool in hot weather. Pocket depth is also good enough to easily carry a mobile phone. Highly recommended for daily wear! ❤️"
+  },
+  {
+    "name": "Priya Wadhwa",
+    "rating": 5,
+    "review": "Tassels on waist string look very elegant. Got many compliments!"
+  },
+  {
+    "name": "Aaradhya Sen",
     "rating": 4,
-    "review": "Exceeded my expectations!"
+    "review": "Smart shirt collar design. Perfect for office wear. Drawstring is good."
   },
   {
-    "name": "Manoj Tiwari",
-    "rating": 5,
-    "review": "The color is exactly as shown in the picture."
+    "name": "Anusha More",
+    "rating": 4,
+    "review": "Loved the look. Sleeves are a little loose on me but overall nice fit. 👍"
   },
   {
-    "name": "Kavita Reddy",
-    "rating": 5,
-    "review": "Looks premium and elegant."
+    "name": "Pradeep Thakur",
+    "rating": 4,
+    "review": "Bought this for my mother. Fitting is true to size and fabric is very soft. Slight delay in shipping but happy with product. 😊"
   },
   {
-    "name": "Deepak Rao",
-    "rating": 5,
-    "review": "Stitching is flawless."
+    "name": "Sudha Malhotra",
+    "rating": 4,
+    "review": "Nice material, very comfortable for office. Delivery was slightly late."
+  },
+  {
+    "name": "Disha Patkar",
+    "rating": 4,
+    "review": "Good quality rayon dress. The collar style looks professional. Length is slightly longer than expected but fits well otherwise."
+  },
+  {
+    "name": "Vidya Pillai",
+    "rating": 4,
+    "review": "Smart shirt collar design. Perfect for office wear. Drawstring is good."
+  },
+  {
+    "name": "Sunita Ahluwalia",
+    "rating": 4,
+    "review": "Nice daily wear outfit. Sturdy gold buttons and good quality fabric."
+  },
+  {
+    "name": "Suman Kalyani",
+    "rating": 4,
+    "review": "Nice daily wear outfit. Sturdy gold buttons and good quality fabric."
+  },
+  {
+    "name": "Aman Mishra",
+    "rating": 4,
+    "review": "Good gift choice. My wife liked the color and pockets. Stitched well, worth the price."
+  },
+  {
+    "name": "Asha Choudhury",
+    "rating": 4,
+    "review": "Nice daily wear outfit. Sturdy gold buttons and good quality fabric."
+  },
+  {
+    "name": "Shankar Das",
+    "rating": 4,
+    "review": "Bought this for my mother. Fitting is true to size and fabric is very soft. Slight delay in shipping but happy with product. 😊"
+  },
+  {
+    "name": "Yogesh Kohli",
+    "rating": 3,
+    "review": "Gifted this to my wife. The dark black color looks okay, but stitch quality could be better. Average packaging and delivery."
+  },
+  {
+    "name": "Urmila Chatterjee",
+    "rating": 3,
+    "review": "The dress looks nice in terms of design, but the material is extremely thin and feels a bit cheap for this price. The button holes are very tight, making it difficult to button and unbutton. Fitting is also somewhat loose around the shoulders. It is okay for basic house wear but not suitable for office or outings. 😕"
+  },
+  {
+    "name": "Usha Pai",
+    "rating": 3,
+    "review": "Colour is slightly different from picture, little darker black."
+  },
+  {
+    "name": "Radha Pillai",
+    "rating": 3,
+    "review": "Decent product, but rayon fabric is very thin."
+  },
+  {
+    "name": "Geeta Fernandez",
+    "rating": 2,
+    "review": "Size chart not correct. Fitting too loose."
   }
 ]

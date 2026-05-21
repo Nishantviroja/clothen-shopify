@@ -1,12 +1,247 @@
 [
   {
-    "name": "Nishant Viroja",
+    "name": "Tulsi Joshi",
     "rating": 5,
-    "review": "Looks premium and elegant."
+    "review": "Bought for my mother and fitting was absolute perfect. 🥰"
   },
   {
-    "name": "Vijay Bhatia",
+    "name": "Shweta Jadeja",
     "rating": 5,
-    "review": "Perfect fitting and print quality."
+    "review": "Super comfy matching set! The linen feels premium and the fit is relaxed. Excellent value for money product in this budget. ❤️"
+  },
+  {
+    "name": "Gopi Sarkar",
+    "rating": 4,
+    "review": "The co-ord set looks very nice and fabric is comfortable. The only issue is that the trousers are slightly long for my height, will need minor alterations. Good product."
+  },
+  {
+    "name": "Utkarsh Das",
+    "rating": 4,
+    "review": "Nice fit and style. Pants elastic is very comfortable. Good buy. 👍"
+  },
+  {
+    "name": "Avani Kamath",
+    "rating": 4,
+    "review": "Fabric is comfortable. Overall happy with the purchase. 😊"
+  },
+  {
+    "name": "Babita Pandey",
+    "rating": 5,
+    "review": "Amazing quality under this range. Trousers have soft elastic. 👌"
+  },
+  {
+    "name": "Vivaan Kulkarni",
+    "rating": 4,
+    "review": "The quality of the linen fabric is very nice, feels soft and lightweight. The style is exact same as shown in the picture. However, the sizing of the top is slightly on the looser side. I ordered Medium but it feels a bit loose, though trousers fit perfectly. Otherwise, a very decent daily wear set. 😊"
+  },
+  {
+    "name": "Avani Kulkarni",
+    "rating": 5,
+    "review": "Bought this co-ord set for my wife. She finds the linen material highly breathable and comfortable. The design is simple yet modern, and the trousers are very comfortable for daily wear. Stitching is durable and quality is premium. Thank you for the fast delivery! 👍"
+  },
+  {
+    "name": "Sonal Deshmukh",
+    "rating": 5,
+    "review": "Excellent packaging, fitting runs exactly true to size."
+  },
+  {
+    "name": "Bina Grewal",
+    "rating": 5,
+    "review": "Bahut hi soft fabric and print/color is very soothing. Adjusts well to the body and gives a smart look. Overall very happy."
+  },
+  {
+    "name": "Vidya Sharma",
+    "rating": 5,
+    "review": "Linen quality is premium and stitching is durable. 👍"
+  },
+  {
+    "name": "Mamta Joshi",
+    "rating": 5,
+    "review": "Highly breathable linen set. Value for money purchase."
+  },
+  {
+    "name": "Rekha Arora",
+    "rating": 5,
+    "review": "Washed it twice and there is no shrinkage. Stitching is very durable and there are no loose threads. Fits true to size chart. 🥰"
+  },
+  {
+    "name": "Bhakti Dubey",
+    "rating": 5,
+    "review": "Very elegant design, perfect matching set for summer."
+  },
+  {
+    "name": "Lalita Arora",
+    "rating": 5,
+    "review": "Love the clean look of this co-ord set. Fabric is breathable and perfect for hot days. Stitching near the neck and hem is very neat. 👍"
+  },
+  {
+    "name": "Kiran Dubey",
+    "rating": 5,
+    "review": "Pure linen material, very comfortable for daily wear. 👌"
+  },
+  {
+    "name": "Alka Das",
+    "rating": 5,
+    "review": "This linen co-ord set exceeded my expectations! The fabric is high quality linen, very soft on the skin. The trousers are breathable and have a good stretch. Did not experience any shrinkage after hand wash. Perfect for office wear or a casual weekend outing. 🥰"
+  },
+  {
+    "name": "Neha Sethi",
+    "rating": 5,
+    "review": "Really happy with the purchase. Trousers have a perfect waist fit and top length is just right. Perfect casual summer outfit."
+  },
+  {
+    "name": "Shweta Makwana",
+    "rating": 5,
+    "review": "Very stylish daily wear outfit. The linen fabric is soft and keeps you cool in summer. Pants are well-tailored. Highly recommend. 😊"
+  },
+  {
+    "name": "Madhavi Deshmukh",
+    "rating": 5,
+    "review": "Absolutely in love with this pure linen co-ord set! The design is extremely modern and gives a very chic silhouette. The linen fabric is highly breathable, premium, and soft, making it comfortable to wear for long office hours. Trousers fit comfortably around the waist. Highly recommended for hot summer days! ❤️"
+  },
+  {
+    "name": "Megha Nambiar",
+    "rating": 5,
+    "review": "Kapdu khub j soft and heavy linen material che. Perfect choice for daily market run or office. Very satisfied with this buy. 👌"
+  },
+  {
+    "name": "Mayank Gohil",
+    "rating": 5,
+    "review": "Perfect casual wear. Pants fitting is very comfortable."
+  },
+  {
+    "name": "Kriti Bhasin",
+    "rating": 5,
+    "review": "Bahut hi thanda aur comfortable fabric hai. Value for money buy."
+  },
+  {
+    "name": "Renu Garg",
+    "rating": 5,
+    "review": "Nice color and style. The pattern looks very attractive. Material is soft, lightweight, and flowy. Perfect for everyday summer wear. 👍"
+  },
+  {
+    "name": "Vaishali Mishra",
+    "rating": 3,
+    "review": "Average quality. Linen fabric is a bit rough before first wash. 😐"
+  },
+  {
+    "name": "Reyansh Sen",
+    "rating": 5,
+    "review": "Kapdu khub j premium che and fits well. Happy buy!"
+  },
+  {
+    "name": "Piyush Pandey",
+    "rating": 5,
+    "review": "Great fit and soft fabric. Stitching and finishing are high class. Best choice for office or casual meetings. Extremely satisfied! 😊"
+  },
+  {
+    "name": "Nisha Patil",
+    "rating": 5,
+    "review": "Bahut hi comfortable and lightweight matching set. Color looks exactly same as shown in photos. Elastic on the trousers is soft and comfortable."
+  },
+  {
+    "name": "Lalita Patil",
+    "rating": 5,
+    "review": "Kapdu khub j soft and comfortable che everyday wear mate. 😊"
+  },
+  {
+    "name": "Charu Mehra",
+    "rating": 5,
+    "review": "Nice linen cloth, perfect for daily office wear. Stitching and finishing are high class. Delivered on time and packaging was neat. 👍"
+  },
+  {
+    "name": "Rashmi Sharma",
+    "rating": 5,
+    "review": "Wore this for an outing and received many compliments. Fabric khub breathable che, perfect for hot summers. The matching trousers fit nicely. ❤️"
+  },
+  {
+    "name": "Uma Makwana",
+    "rating": 4,
+    "review": "Fabric is soft linen, very comfy for daily use. Sizing is slightly on the looser side, but still looks good on body. Fast delivery. 😊"
+  },
+  {
+    "name": "Kartik Dutta",
+    "rating": 5,
+    "review": "Beautiful co-ord set, looks rich and stylish. 😊"
+  },
+  {
+    "name": "Vikram Chavda",
+    "rating": 5,
+    "review": "I ordered this pure linen co-ord set for a family gathering. The fabric quality is very premium and feels soft on the skin. Fitting pan perfect che. 😊"
+  },
+  {
+    "name": "Sarita Mehra",
+    "rating": 5,
+    "review": "Bahu saro and comfortable set che. I was worried about the fit but it is perfect. Fabric remains soft even after multiple washes. 🥰"
+  },
+  {
+    "name": "Madhav Shetty",
+    "rating": 5,
+    "review": "No color fading or shrinking after first wash. Great quality."
+  },
+  {
+    "name": "Alka Joshi",
+    "rating": 5,
+    "review": "Bought this for my mother. She loved the comfortable linen material and matching style. Simple, modern, and very elegant dress."
+  },
+  {
+    "name": "Usha Rathore",
+    "rating": 4,
+    "review": "Bahu comfortable set che everyday wear mate. The linen fabric is soft and airy. Small thread issue near the sleeve border, but overall very good. 👍"
+  },
+  {
+    "name": "Vidya Yadav",
+    "rating": 5,
+    "review": "Ordered for my wife and she looks so pretty in it. ❤️"
+  },
+  {
+    "name": "Nisha Gohil",
+    "rating": 5,
+    "review": "Super comfy outfit! Got lots of compliments from colleagues. 👍"
+  },
+  {
+    "name": "Usha Deshmukh",
+    "rating": 5,
+    "review": "Fabric khub soft che and color is nice. Highly recommended."
+  },
+  {
+    "name": "Vihaan Das",
+    "rating": 5,
+    "review": "Simple yet very classy look. Best summer collection."
+  },
+  {
+    "name": "Namrata Chavda",
+    "rating": 5,
+    "review": "Excellent product! Linen material is of high quality and doesn't shrink or bleed colors on washing. Trouser width is comfortable and airy. 👌"
+  },
+  {
+    "name": "Avani Hegde",
+    "rating": 5,
+    "review": "Gifted this to my sister and she absolutely loved the design. Quality of the linen and stitching details are top notch. Worth every rupee."
+  },
+  {
+    "name": "Gaurav Iyer",
+    "rating": 5,
+    "review": "Ame badha compliments aapya mane! Loved this set. ❤️"
+  },
+  {
+    "name": "Tushal Rathore",
+    "rating": 5,
+    "review": "Kapdu bahut soft linen che. The cut and pattern of this set look very trendy. Stitching is very clean with no loose threads at all. The trousers have a great elastic waistband which is comfortable for daily wear. Washes well, did not shrink or fade. Will definitely buy another set. 😊"
+  },
+  {
+    "name": "Sandeep Sethi",
+    "rating": 5,
+    "review": "Stitching is very clean. Color matches the description. 🥰"
+  },
+  {
+    "name": "Charu Roy",
+    "rating": 4,
+    "review": "Good linen co-ord set, fabric is soft but delivery was slightly delayed."
+  },
+  {
+    "name": "Uma Pillai",
+    "rating": 5,
+    "review": "Loved the style and fitting, matching pants are beautiful."
   }
 ]

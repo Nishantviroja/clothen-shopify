@@ -1,27 +1,277 @@
 [
   {
-    "name": "Deepak Rao",
-    "rating": 5,
-    "review": "Got many compliments wearing this."
+    "name": "Anita Trivedi",
+    "rating": 3,
+    "review": "The palazzo set design is nice, but the quality of rayon is average. It is quite thin, so you might need to wear an inner slip under the top. Also, the stitching near the side slits was a bit loose, had to get it repaired. The palazzos are comfortable but the prints look a bit faded compared to the photo. Okay for daily wear at home, but not worth full price."
   },
   {
-    "name": "Anita Iyer",
+    "name": "Tarun Shah",
+    "rating": 5,
+    "review": "I ordered this for my sister's birthday. She is very happy with the stylish look and the comfort. Fits true to size. Good quality fabric."
+  },
+  {
+    "name": "Vivaan Dhaliwal",
+    "rating": 5,
+    "review": "Beautiful design and very comfortable trousers. ❤️"
+  },
+  {
+    "name": "Payal Chopra",
+    "rating": 5,
+    "review": "Perfect fitting and soft fabric. Stitching and finishing are high class. The print stands out nicely. Best choice for office or market runs."
+  },
+  {
+    "name": "Neha Iyer",
+    "rating": 5,
+    "review": "Beautiful printed co-ord set! Palazzo width is perfect, not too wide. Rayon material behaves very well. Got it at a great price."
+  },
+  {
+    "name": "Aarav Bansal",
     "rating": 4,
-    "review": "Beautiful design, highly recommended."
+    "review": "The quality of the rayon fabric is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the asymmetric top looks very smart. However, the sizing of the top is slightly on the looser side. I ordered Medium but it feels a bit loose, though palazzos fit perfectly. Also, it gets crumpled easily after wash, so ironing is needed. Otherwise, a very decent daily wear set. 😊"
   },
   {
-    "name": "Praveen Nambiar",
+    "name": "Vihaan Kulkarni",
+    "rating": 5,
+    "review": "Kapda bahut halka aur thanda hai summer ke liye. Print looks rich. Trousers have pockets too. Very happy with the purchase overall! 😊"
+  },
+  {
+    "name": "Khushi Sethi",
+    "rating": 5,
+    "review": "Color is exact same as shown in photos. Very happy."
+  },
+  {
+    "name": "Rekha Anand",
+    "rating": 5,
+    "review": "Bought this asymmetric palazzo set for my wife. She liked the soft rayon material and comfortable fitting. The color print is very classy. 👍"
+  },
+  {
+    "name": "Varsha Das",
+    "rating": 5,
+    "review": "Lovely design and patterns, got many compliments. ❤️"
+  },
+  {
+    "name": "Shweta Deshmukh",
+    "rating": 5,
+    "review": "Bahu comfortable set che everyday wear mate. Asymmetric design gives a nice look. Trousers fitting is also perfect. Very happy. ❤️"
+  },
+  {
+    "name": "Lalita Goel",
+    "rating": 5,
+    "review": "Nice floral printed patterns. The palazzo has a good elastic waist. Rayon fabric is skin-friendly and did not shrink after washing. 😊"
+  },
+  {
+    "name": "Chitra Narang",
     "rating": 4,
-    "review": "Will definitely buy again."
+    "review": "The dress looks beautiful and fabric is soft. The asymmetric top fits nicely, but the palazzos are slightly long for me, will need simple alterations. Good product."
   },
   {
-    "name": "Vikram Rathore",
+    "name": "Usha Pillai",
     "rating": 5,
-    "review": "Very stylish and trendy."
+    "review": "Kapda ki quality badhiya hai aur fit bhi perfect aaya."
   },
   {
-    "name": "Priya Singh",
+    "name": "Sneha Chawla",
     "rating": 5,
-    "review": "Feels very luxurious."
+    "review": "Perfect length for palazzo and top. Stitching is neat."
+  },
+  {
+    "name": "Gaurav Sandhu",
+    "rating": 4,
+    "review": "Good palazzo set, rayon fabric is soft but shipping was a bit slow."
+  },
+  {
+    "name": "Ananya Sharma",
+    "rating": 5,
+    "review": "Bahut pyara dress hai, looks very elegant and professional. The asymmetric top has a great flare. Trousers fit comfortably."
+  },
+  {
+    "name": "Aarav Anand",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Print looks nice, overall happy with buy."
+  },
+  {
+    "name": "Ajay Nair",
+    "rating": 5,
+    "review": "Best printed set for summer, very lightweight and breezy. 👍"
+  },
+  {
+    "name": "Sita Bhasin",
+    "rating": 4,
+    "review": "Pari perfect fitting che. Kapdu khub j soft che and comfortable. Small thread issue near the neck border, but overall very good under this budget. 😊"
+  },
+  {
+    "name": "Arnav Sarkar",
+    "rating": 5,
+    "review": "Lovely asymmetrical cut, looks very premium. 👍"
+  },
+  {
+    "name": "Indira Banerjee",
+    "rating": 5,
+    "review": "Bahut pyara printed pattern hai, looks very elegant. 😊"
+  },
+  {
+    "name": "Amit Nair",
+    "rating": 4,
+    "review": "Fabric is soft rayon, very comfortable for daily wear. The color is slightly darker than the picture but looks decent. Fits well. Delivery took 4 days."
+  },
+  {
+    "name": "Payal Shetty",
+    "rating": 5,
+    "review": "Bahut hi soft material hai and look is very elegant. Asymmetric top looks unique and palazzo is very comfortable for walking around. 👌"
+  },
+  {
+    "name": "Gaurav Patel",
+    "rating": 5,
+    "review": "Ame badha compliments aapya mane! Super soft fabric. 🥰"
+  },
+  {
+    "name": "Geeta Garg",
+    "rating": 5,
+    "review": "Bought this palazzo set for my mother and she absolutely loves it. She finds the rayon material highly breathable and comfortable for long hours. The asymmetric top design is simple yet modern, and the printed palazzos are very comfortable for daily chores. Stitching is durable and print quality is premium. Thank you for the fast delivery and good quality product! 👍"
+  },
+  {
+    "name": "Seema Shetty",
+    "rating": 5,
+    "review": "Stitching quality is top class, and prints look premium. The length of the top is just perfect. Ideal summer wear product, highly recommend!"
+  },
+  {
+    "name": "Sita Gill",
+    "rating": 5,
+    "review": "Very nice daily wear printed set. Material is soft rayon and stitching is neat. The palazzos are very breezy and comfortable in summer."
+  },
+  {
+    "name": "Meera Sen",
+    "rating": 5,
+    "review": "Bahu saro and comfortable dress che. Highly recommended! 👍"
+  },
+  {
+    "name": "Reena Sood",
+    "rating": 5,
+    "review": "I am extremely pleased with this printed asymmetric palazzo set! The top has a very unique and stylish cut that drapes beautifully. The rayon fabric is super soft, lightweight, and keeps you very cool in the hot weather. Palazzos are well-stitched, loose, and have a comfortable elastic waistband. Print is clear and doesn't bleed. A perfect outfit for casual outings or daily wear. Definitely worth buying! ❤️"
+  },
+  {
+    "name": "Ishita Kamath",
+    "rating": 5,
+    "review": "Beautiful asymmetric top with super comfy palazzos! ❤️"
+  },
+  {
+    "name": "Ajay Singh",
+    "rating": 5,
+    "review": "Amazing product under this price. Soft rayon is so good."
+  },
+  {
+    "name": "Khushi Arora",
+    "rating": 3,
+    "review": "Material is soft but it shrunk a little after first wash, making the length shorter. The asymmetric cut is okay but fits a bit tight around chest. Okay product."
+  },
+  {
+    "name": "Ridhi Verma",
+    "rating": 5,
+    "review": "Great product, stitching is very neat and strong."
+  },
+  {
+    "name": "Vandana Hegde",
+    "rating": 5,
+    "review": "Excellent palazzo set for everyday wear. Simple yet very modern design. Material is thin but not see-through. Recommended to buy. 👍"
+  },
+  {
+    "name": "Indira Trivedi",
+    "rating": 5,
+    "review": "Stitching and border work on asymmetric hem is very clean. Color hasn't faded after wash. Very comfortable summer wear. Value for money."
+  },
+  {
+    "name": "Geeta Dubey",
+    "rating": 5,
+    "review": "Bahut comfortable set hai, daily wear ke liye ekdam perfect! 😊"
+  },
+  {
+    "name": "Manish Chawla",
+    "rating": 5,
+    "review": "Kapdu bahut soft rayon che. The asymmetric cut of the top looks very modern and trendy. Stitching is very clean, and there are no loose threads. The palazzo pants are extremely comfortable and the length is just right for average Indian height. Wore it to my college and got many compliments. Washes well, did not shrink at all. Will buy another color too. 😊"
+  },
+  {
+    "name": "Navya Trivedi",
+    "rating": 5,
+    "review": "Gifted this to my mother, she loved the soft material."
+  },
+  {
+    "name": "Rohan Gill",
+    "rating": 5,
+    "review": "Jeve photo ma che exact evu j che. Value for money."
+  },
+  {
+    "name": "Nitin Sidhu",
+    "rating": 5,
+    "review": "I wear this to office regularly, so comfortable all day."
+  },
+  {
+    "name": "Aarti Gill",
+    "rating": 5,
+    "review": "Perfect choice for hot summers. Fabric is thin but good."
+  },
+  {
+    "name": "Megha Desai",
+    "rating": 5,
+    "review": "Fitting is superb, trousers are very airy and loose."
+  },
+  {
+    "name": "Indira Singh",
+    "rating": 5,
+    "review": "Fast delivery, perfect packaging, and premium fit."
+  },
+  {
+    "name": "Preeti Sarkar",
+    "rating": 5,
+    "review": "Nice prints and good elastic fitting on palazzos."
+  },
+  {
+    "name": "Navya Joshi",
+    "rating": 5,
+    "review": "Fabric is extremely soft, fitting pan perfectly thai gayu."
+  },
+  {
+    "name": "Preeti Dhaliwal",
+    "rating": 5,
+    "review": "Nice flowy pattern and elegant prints. Worth buying!"
+  },
+  {
+    "name": "Piyush Rathore",
+    "rating": 5,
+    "review": "Fabric khub j soft che and palazzo fitting pan perfect che. Wore it for a family function and got many compliments. Very satisfied. ❤️"
+  },
+  {
+    "name": "Gaurav Sethi",
+    "rating": 5,
+    "review": "Very stylish daily wear outfit. No color fading after wash."
+  },
+  {
+    "name": "Shruti Hegde",
+    "rating": 5,
+    "review": "Gifted this dress to my daughter. Fits her perfectly and she was praising the soft fabric quality. Good stitching and fast shipping."
+  },
+  {
+    "name": "Sanya Chauhan",
+    "rating": 5,
+    "review": "Wore this for a travel trip and it felt extremely comfortable throughout. Fabric khub breathable che. Fits perfectly. Happy with the purchase! 🥰"
+  },
+  {
+    "name": "Komal Jindal",
+    "rating": 5,
+    "review": "Super comfy co-ord set! The asymmetric top gives a unique shape and pants are comfortable too. Excellent product under this price range. 👍"
+  },
+  {
+    "name": "Neha Jha",
+    "rating": 5,
+    "review": "Really liked the high-low asymmetric pattern of the top. The palazzo pants are very loose and comfortable. Perfect dress for casual outings. 😊"
+  },
+  {
+    "name": "Lalit Yadav",
+    "rating": 5,
+    "review": "Soft rayon material feels very light on skin. 👌"
+  },
+  {
+    "name": "Aditya Menon",
+    "rating": 4,
+    "review": "Nice fit and style. Palazzo elastic is comfortable. Good product. 👍"
   }
 ]

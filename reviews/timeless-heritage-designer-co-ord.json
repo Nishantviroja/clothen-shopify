@@ -1,17 +1,217 @@
 [
   {
-    "name": "Deepak Rao",
+    "name": "Savitri Das",
     "rating": 5,
-    "review": "Got many compliments wearing this."
+    "review": "Fitting pan ekdam perfect che. Very happy with the purchase."
   },
   {
-    "name": "Pratiksha Patil",
+    "name": "Komal Grewal",
+    "rating": 5,
+    "review": "Super comfy matching set! The straight fit kurta gives a smart look and pants are comfortable too. Excellent product under this range. ❤️"
+  },
+  {
+    "name": "Rajesh Sen",
+    "rating": 5,
+    "review": "Absolutely in love with this heritage designer co-ord set! The traditional motifs and ethnic print design look highly sophisticated and give a very modern silhouette. The fabric is extremely soft, breathable, and flowy, making it comfortable to wear for long office hours. Trousers are well-tailored and fit comfortably around the waist. Highly recommended for daily wear! ❤️"
+  },
+  {
+    "name": "Priti Singh",
     "rating": 4,
-    "review": "Beautiful design, highly recommended."
+    "review": "Good co-ord set, fabric is soft but delivery was slightly delayed. 👍"
   },
   {
-    "name": "Sunita Thakur",
+    "name": "Bina Rao",
     "rating": 5,
-    "review": "Looks premium and elegant."
+    "review": "Amazing summer wear. Flowy, breathable, and very classy. 😊"
+  },
+  {
+    "name": "Kinjal Chauhan",
+    "rating": 5,
+    "review": "Kapdu khub j soft che and pants fitting pan perfect che. Wore it for a family gathering and got many compliments. Very satisfied. 😊"
+  },
+  {
+    "name": "Deepa Zala",
+    "rating": 5,
+    "review": "Beautiful ethnic prints, stitching is neat and strong. 👌"
+  },
+  {
+    "name": "Lata Shenoy",
+    "rating": 4,
+    "review": "Fabric is soft and very comfy for daily use. Sizing is slightly on the looser side, but still looks good. Fast delivery. 😊"
+  },
+  {
+    "name": "Mayank Kapoor",
+    "rating": 4,
+    "review": "The quality of the printed fabric is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the traditional motifs look very smart. Sizing of the kurta is slightly loose, but comfortable. Wrinkles easily, so regular ironing is needed. Otherwise, a very decent daily wear set. 😊"
+  },
+  {
+    "name": "Kriti Chopra",
+    "rating": 5,
+    "review": "Bought this for my mother. She loved the soft fabric and comfortable fitting. Simple yet very elegant traditional printed co-ord set. 🥰"
+  },
+  {
+    "name": "Rukmini Nambiar",
+    "rating": 5,
+    "review": "Kapdu khub j soft and premium quality che. 👌"
+  },
+  {
+    "name": "Rashmi Sarkar",
+    "rating": 5,
+    "review": "Love the ethnic prints on this set. Looks very elegant. Fabric is breathable and perfect for everyday wear. Fitting runs true to size. 👍"
+  },
+  {
+    "name": "Rashmi Mukherjee",
+    "rating": 5,
+    "review": "Wore this for an outing and got many compliments. Fabric khub soft che. The traditional print gives a very classy and polished look. Happy buy! ❤️"
+  },
+  {
+    "name": "Sanjay Yadav",
+    "rating": 5,
+    "review": "Bahu saro and comfortable ethnic set che. Material behaves well after washing, no shrinkage. The prints look very fresh and elegant. 🥰"
+  },
+  {
+    "name": "Varsha Sandhu",
+    "rating": 5,
+    "review": "No color bleed or shrinkage after first wash. High quality. 👍"
+  },
+  {
+    "name": "Megha Tripathi",
+    "rating": 5,
+    "review": "Modern cut with a traditional twist. Worth every rupee. 🥰"
+  },
+  {
+    "name": "Bina Chatterjee",
+    "rating": 5,
+    "review": "Perfect length and fit. Received many compliments today. 😊"
+  },
+  {
+    "name": "Krupa Patel",
+    "rating": 5,
+    "review": "Gifted this to my wife. She loved the comfortable feel and traditional design. Kurta fitting is perfect. Value for money product."
+  },
+  {
+    "name": "Padmini Rao",
+    "rating": 5,
+    "review": "Stitching quality is top class, and prints look premium. The length of the kurta is just perfect. Great summer wear, highly recommend!"
+  },
+  {
+    "name": "Hemant Pawar",
+    "rating": 5,
+    "review": "Very elegant printed design. Nice for daily wear and office."
+  },
+  {
+    "name": "Nirmala Khanna",
+    "rating": 3,
+    "review": "Average quality. Fabric is a bit thin for this price range. 😐"
+  },
+  {
+    "name": "Diya Bedi",
+    "rating": 5,
+    "review": "Excellent dress for office or casual functions. Stitching is very neat. kurti fitting is straight and pants are relaxed. Highly recommend."
+  },
+  {
+    "name": "Vihaan Jadeja",
+    "rating": 5,
+    "review": "Gifted this to my wife and she looks extremely beautiful. 🥰"
+  },
+  {
+    "name": "Madhavi Ruparelia",
+    "rating": 5,
+    "review": "Kurta pattern is very stylish and pants are super comfortable."
+  },
+  {
+    "name": "Renu Panicker",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Print looks rich, overall happy with buy."
+  },
+  {
+    "name": "Indira Dubey",
+    "rating": 5,
+    "review": "Bahut hi comfortable fabric hai. Value for money purchase."
+  },
+  {
+    "name": "Padmini Desai",
+    "rating": 5,
+    "review": "Bahu saro and comfortable ethnic co-ord set. Fits perfectly."
+  },
+  {
+    "name": "Anjali Bhat",
+    "rating": 5,
+    "review": "Bahut hi comfortable and lightweight matching set. Color pattern looks exactly same as shown in photos. Elastic on pants is comfortable. 👌"
+  },
+  {
+    "name": "Sita Prabhu",
+    "rating": 5,
+    "review": "I ordered this ethnic printed co-ord set for my daughter. She really liked the straight kurta fit and the rich traditional motifs. Fabric is soft. 😊"
+  },
+  {
+    "name": "Navya Sandhu",
+    "rating": 5,
+    "review": "Really liked the straight-fit silhouette of the kurta. The pants are very comfortable and airy. Perfect dress for regular office wear. 👌"
+  },
+  {
+    "name": "Yamini Grewal",
+    "rating": 4,
+    "review": "Bahu comfortable set che. Good daily wear option. 👌"
+  },
+  {
+    "name": "Kusum Chopra",
+    "rating": 4,
+    "review": "Nice fit and style. Kurta length is perfect. Good product. 😊"
+  },
+  {
+    "name": "Simran Malhotra",
+    "rating": 5,
+    "review": "Nice daily wear printed set. Fabric quality is very premium. Fitting pan perfect che. Delivered on time and packaging was neat. 👍"
+  },
+  {
+    "name": "Uma Chawla",
+    "rating": 5,
+    "review": "Straight fit pants are extremely comfortable around the waist."
+  },
+  {
+    "name": "Anita Sharma",
+    "rating": 5,
+    "review": "Traditional motifs look very elegant. Premium quality fabric. ❤️"
+  },
+  {
+    "name": "Jayashree Bhat",
+    "rating": 5,
+    "review": "Kapdu bahut soft and comfortable che. The straight kurta cut looks very modern and trendy. Stitching is very clean, and there are no loose threads at all. The pants are extremely comfortable and the length is just right for average Indian height. Wore it to my college and got many compliments. Washes well, did not shrink. Will buy another variant too. 😊"
+  },
+  {
+    "name": "Indira Sandhu",
+    "rating": 4,
+    "review": "Good quality ethnic set. The kurta fits nicely but neck button is slightly tight for me. Overall very nice under this price range. 👍"
+  },
+  {
+    "name": "Sneha Sandhu",
+    "rating": 3,
+    "review": "Material is soft but it shrunk a little after first wash, making the length shorter. Sizing fits a bit tight around chest. Okay product."
+  },
+  {
+    "name": "Manju Aggarwal",
+    "rating": 5,
+    "review": "Ordered for my sister and she loved the premium traditional look. ❤️"
+  },
+  {
+    "name": "Nisha Bhasin",
+    "rating": 5,
+    "review": "Loved the straight fit kurta and pants. Best boutique style. 👍"
+  },
+  {
+    "name": "Heena Makwana",
+    "rating": 5,
+    "review": "Bought this co-ord set for my mother and she absolutely loves it. She finds the material highly breathable and comfortable for long hours. The traditional motifs design is simple yet modern, and the straight kurta fits her perfectly. Stitching is durable and print quality is premium. Thank you for the fast delivery! 👍"
+  },
+  {
+    "name": "Saurabh Chauhan",
+    "rating": 5,
+    "review": "Very stylish co-ord set! Kurti fabric is soft and thanda for summer. Neck stitching is clean and details are premium. Good delivery speed. 😊"
+  },
+  {
+    "name": "Gopi Deol",
+    "rating": 4,
+    "review": "The co-ord set looks very pretty and fabric is comfortable. The only issue is that the pants are slightly long for my height, will need minor alterations. Good product."
   }
 ]

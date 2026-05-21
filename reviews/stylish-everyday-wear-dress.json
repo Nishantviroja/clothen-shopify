@@ -1,32 +1,287 @@
 [
   {
-    "name": "Arjun Mehta",
+    "name": "Sanya Bhasin",
     "rating": 5,
-    "review": "My new favorite outfit."
+    "review": "I ordered this for my wife's birthday. She is very happy with the styling and the comfort. Waist belt helps in adjusting the fit. Good quality."
   },
   {
-    "name": "Rohan Das",
+    "name": "Saurabh Mukherjee",
+    "rating": 5,
+    "review": "Wore this for a family outing and got so many compliments. Fabric khub comfortable che. Drawstring helps in perfect fit. Very happy with the purchase!"
+  },
+  {
+    "name": "Rashmi Sandhu",
+    "rating": 2,
+    "review": "Disappointed with this product. The rayon material feels very rough and thin. Stitching is very poor, and threads are coming out from the sleeves and bottom hem. The size chart is completely wrong, it is way too loose even after adjusting the waist drawstring. One of the gold buttons was missing when it arrived. Also, shipping was extremely slow, took almost 9 days to reach Ahmedabad. Not recommended. 👎"
+  },
+  {
+    "name": "Harsh Dhaliwal",
+    "rating": 5,
+    "review": "Bahut hi soft material hai and look is very classy. Collar neck looks professional so I wear it to my coaching classes. No colour bleeding after wash. 👌"
+  },
+  {
+    "name": "Manju Bhat",
+    "rating": 5,
+    "review": "Excellent fabric quality. Waist drawstring makes it fit so well."
+  },
+  {
+    "name": "Pranav Kamath",
+    "rating": 5,
+    "review": "Amazing texture, no shrinkage after wash. Value for money."
+  },
+  {
+    "name": "Meera Kapoor",
     "rating": 4,
-    "review": "Beautiful design, highly recommended."
+    "review": "Pari perfect fitting che. Kapdu khub j soft che and comfortable che. Small issue with the button thread coming out, but overall product is very good for this price. Recommended!"
   },
   {
-    "name": "Pratiksha Patil",
+    "name": "Kiran Singh",
     "rating": 5,
-    "review": "Good quality material."
+    "review": "Kapda ki quality badhiya hai aur fit bhi perfect aaya."
   },
   {
-    "name": "Aarti Menon",
+    "name": "Ritu Dutta",
     "rating": 5,
-    "review": "Absolutely gorgeous!"
+    "review": "Simple, elegant and very lightweight. Perfect for everyday wear."
   },
   {
-    "name": "Aakash Bhatt",
+    "name": "Saurabh Nair",
+    "rating": 3,
+    "review": "Material is soft but it shrunk a little after first wash, making the length shorter. The collar is a bit stiff and rubs against the neck. Golden buttons are not very secure. Okay product."
+  },
+  {
+    "name": "Nirmala Mukherjee",
+    "rating": 5,
+    "review": "Bought this for my mother. She prefers simple yet elegant clothes, and this dress met all her expectations. Material is highly breathable and perfect for Indian summers. Drawstring provides a customized fitting at the waist. Pockets are a huge plus for her. She wore it for a family dinner and everyone praised the look. Very satisfied with the purchase! 😊"
+  },
+  {
+    "name": "Sanjay Singh",
+    "rating": 5,
+    "review": "Mummy loved the dress, fabric is very lightweight and soft."
+  },
+  {
+    "name": "Pankaj Vyas",
+    "rating": 5,
+    "review": "I ordered this for my wife as an anniversary gift. She was very happy with the quality and fit. The black color is very rich and classy, and the golden beads on the waist drawstring look very elegant. The fabric is light and perfect for hot days. She liked the pocket feature the most. Perfect fit and design, value for money product. Highly recommended!"
+  },
+  {
+    "name": "Puneet Goel",
     "rating": 4,
-    "review": "Just loved it."
+    "review": "The quality of the rayon fabric is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the side pockets are very useful. However, the sizing is slightly on the larger side. I ordered Medium but it feels a bit loose, though the drawstring helps in adjusting the waist. Also, it gets crumpled easily after wash, so regular ironing is needed. Otherwise, a very decent dress."
   },
   {
-    "name": "Pooja Gupta",
+    "name": "Riya Mehra",
     "rating": 5,
-    "review": "Exceeded my expectations!"
+    "review": "Nice soft rayon fabric. Gold buttons and side pockets are very useful."
+  },
+  {
+    "name": "Rishabh Jindal",
+    "rating": 4,
+    "review": "Fabric is soft rayon, very comfortable for office wear. The color is slightly darker than the picture but looks good. Fits well and pockets are a lifesaver. Delivery was delayed by 2 days."
+  },
+  {
+    "name": "Priti Banerjee",
+    "rating": 5,
+    "review": "Stitching quality is top class, and gold buttons look premium. The length is just perfect for me. The fabric is thin but not transparent, ideal for summer."
+  },
+  {
+    "name": "Suhana Garg",
+    "rating": 5,
+    "review": "Perfect length and fit. Extremely pleased with this purchase."
+  },
+  {
+    "name": "Dev Gill",
+    "rating": 5,
+    "review": "Ane badha compliments aapya mane! Fabric is super soft. ❤️"
+  },
+  {
+    "name": "Meera Das",
+    "rating": 5,
+    "review": "This is my go-to dress now! The material is very soft and doesn't irritate the skin at all. Stitching is durable, and there are no loose threads. The gold buttons give it a premium boutique look. Drawstring with gold beads looks really pretty. Perfect length for tall girls as well. Received many compliments from my colleagues at work. Definitely buying green next! 🥰"
+  },
+  {
+    "name": "Aarav Deshmukh",
+    "rating": 5,
+    "review": "Bought for my sister's birthday, she really liked the soft material."
+  },
+  {
+    "name": "Ishita Prabhu",
+    "rating": 5,
+    "review": "Fabric khub j soft che and colour pan khub saro che. Wore it for a small outing with friends and got many compliments. Value for money product! ❤️"
+  },
+  {
+    "name": "Babita Vyas",
+    "rating": 5,
+    "review": "Very stylish and comfortable! Soft rayon is so good in heat."
+  },
+  {
+    "name": "Riya Singhal",
+    "rating": 5,
+    "review": "Really liked the collar pattern and the golden buttons. Fitting is adjustable because of the waist drawstring. Perfect for casual wear. 😊"
+  },
+  {
+    "name": "Mamta Aggarwal",
+    "rating": 5,
+    "review": "Bahu sarto and saro dress che. Fabric feels premium. 👍"
+  },
+  {
+    "name": "Mamta Deshmukh",
+    "rating": 4,
+    "review": "Nice fitting and style. Pockets are very useful. Fabric is good. 👍"
+  },
+  {
+    "name": "Meenakshi Dubey",
+    "rating": 5,
+    "review": "Bahut hi comfortable dress hai, daily wear ke liye perfect!"
+  },
+  {
+    "name": "Sanya Vyas",
+    "rating": 3,
+    "review": "Average quality. Fabric is too thin and buttons are not stitched properly. 😐"
+  },
+  {
+    "name": "Arav Deshmukh",
+    "rating": 5,
+    "review": "Kapdu bahut soft che. It looks very smart and you can wear it all day without any discomfort. The V-neck collar looks very professional for office wear. Stitching is very clean and the small golden buttons look sturdy. Drawstring and pockets are the best parts of this dress. Delivery took 3 days but packaging was neat. Will buy other colors too. 😊"
+  },
+  {
+    "name": "Deepa Shenoy",
+    "rating": 5,
+    "review": "Fitting is superb, and the pockets are deep enough for phone."
+  },
+  {
+    "name": "Priyanka Banerjee",
+    "rating": 5,
+    "review": "Bahut pyara dress hai, looks very elegant and professional."
+  },
+  {
+    "name": "Geeta Grewal",
+    "rating": 5,
+    "review": "Absolutely in love with this dress. The rayon fabric feels premium and sits beautifully on the body. It doesn't shrink after wash and color hasn't faded. The shirt collar design makes it versatile, so I can wear it for meetings and casual hangouts. The side pockets are spacious. The drawstring tassels add a nice Indian touch. Must have in your wardrobe!"
+  },
+  {
+    "name": "Diya Dutta",
+    "rating": 5,
+    "review": "Fabric is extremely soft, fitting pan perfectly thai gayu. Highly recommended!"
+  },
+  {
+    "name": "Richa Patil",
+    "rating": 3,
+    "review": "The dress design is nice and pockets are useful, but the quality of rayon is average. It is quite thin, so you might need to wear an inner slip under it. Also, the stitching near the underarms was a bit loose, had to get it repaired. Waist drawstring is good but the gold tassels fell off after the first hand wash. Okay for casual wear at home, but not worth the full price. Delivery was on time though."
+  },
+  {
+    "name": "Manju Verma",
+    "rating": 5,
+    "review": "Bahut hi premium quality rayon dress hai. Summer season ke liye best choice hai kyuki kapda bahut halka aur thanda hai. Fitting is perfect as you can adjust the waist line with the drawstring. Pockets are deep and practical. Golden buttons add a nice contrast to the dress. Delivered on time and packaging was good. Full marks for design! 👍"
+  },
+  {
+    "name": "Mamta Shah",
+    "rating": 5,
+    "review": "I was searching for a comfortable everyday wear dress and this is absolutely perfect. The rayon fabric is extremely soft and breathable, doesn't feel heavy at all. The shirt collar and gold buttons down the front give a very smart look. I also love the deep pockets, which are very useful to carry mobile phone. The drawstring at the waist is adjustable, so you get a perfect fit. Overall, a great buy for summer! ❤️"
+  },
+  {
+    "name": "Priti Yadav",
+    "rating": 5,
+    "review": "Gifted this to my wife and she loved the style and comfort. Excellent buy."
+  },
+  {
+    "name": "Rekha Pandey",
+    "rating": 5,
+    "review": "Jeve photo ma che exact evu j che. Very happy. 😊"
+  },
+  {
+    "name": "Suhana Arora",
+    "rating": 5,
+    "review": "Loving the fit and the pocket! Perfect summer dress. 🥰"
+  },
+  {
+    "name": "Kiran Mishra",
+    "rating": 5,
+    "review": "Ordered this for my daughter and she looks beautiful in it. ❤️"
+  },
+  {
+    "name": "Sita Kapoor",
+    "rating": 5,
+    "review": "Color is exact same as shown in photos. Worth every rupee."
+  },
+  {
+    "name": "Vidya Dutta",
+    "rating": 5,
+    "review": "The collar design looks very professional. Good for office too."
+  },
+  {
+    "name": "Kriti Mishra",
+    "rating": 4,
+    "review": "Bought this for my wife and she liked it. The fit is good and the fabric is breathable. The only minor complaint is that one of the golden buttons was loose and fell off on the first day, so we had to sew it back. Stitching is otherwise neat and the pockets are deep. The color is very rich and hasn't faded after a wash. Good value for money daily wear outfit. 😊"
+  },
+  {
+    "name": "Pankaj Soni",
+    "rating": 5,
+    "review": "Gifted this dress to my sister. Fits her perfectly and she was praising the soft fabric quality. Good stitching and fast shipping. Recommend it!"
+  },
+  {
+    "name": "Nikhil Singhal",
+    "rating": 5,
+    "review": "Very nice daily wear dress. Material is soft rayon and stitching is neat. The side pockets are really deep and helpful. Must buy."
+  },
+  {
+    "name": "Kiran Das",
+    "rating": 5,
+    "review": "I wear this to office almost every week now. So comfortable!"
+  },
+  {
+    "name": "Vikram Choudhary",
+    "rating": 5,
+    "review": "Gifted this to my sister and she absolutely loved it. Ane fit khub saru aavyu. Fabric is very soft rayon and looks very premium. She was saying that the pockets are very handy for keeping keys and phone while walking. The golden buttons and collar neck look very neat and elegant. Thank you for the fast delivery and good product quality!"
+  },
+  {
+    "name": "Priyanka Dhaliwal",
+    "rating": 5,
+    "review": "Very elegant dress for daily wear. Rayon material is very soft and flowy, making it super comfortable for long hours. The waist drawstring gives a nice flared look below the waist. Pockets are well-stitched and gold buttons are fastened securely. Did not shrink or bleed color during the first wash. A perfect combination of comfort and style. Worth the price!"
+  },
+  {
+    "name": "Sita Trivedi",
+    "rating": 5,
+    "review": "Bought this for my mother. She loved the soft rayon material and the pockets. Fitting is true to size. Delivery was also fast. 👍"
+  },
+  {
+    "name": "Aarti Kapoor",
+    "rating": 5,
+    "review": "Beautiful collar neck and nice golden button detailing. Classy!"
+  },
+  {
+    "name": "Tanvi Bansal",
+    "rating": 4,
+    "review": "Good dress, fabric is soft but delivery was a bit slow. Fitting is nice."
+  },
+  {
+    "name": "Deepa Mukherjee",
+    "rating": 5,
+    "review": "Best everyday dress. Pockets are a major plus point!"
+  },
+  {
+    "name": "Sameer Shinde",
+    "rating": 5,
+    "review": "Beautiful outfit for casual wear! The fabric is high quality rayon, very soft on skin. Shirt collar is well-structured and buttons are of decent quality. Pockets are deep, which is rare in women's dresses. Waist drawstring with tassels looks very chic. Wore it for a weekend trip and it felt extremely comfortable throughout the journey. Strongly recommended! ❤️"
+  },
+  {
+    "name": "Madhav Bhat",
+    "rating": 4,
+    "review": "Bahut comfortable hai, par ironing karni padti hai har wash ke baad."
+  },
+  {
+    "name": "Lata Shetty",
+    "rating": 4,
+    "review": "The dress looks lovely and fabric is very soft. Drawstring waist is very easy to adjust. Only issue is that the golden buttons feel a bit loose, might need to stitch them again. Good buy."
+  },
+  {
+    "name": "Priti Kohli",
+    "rating": 5,
+    "review": "Excellent dress for everyday wear. The pockets are actual life-saver to keep phone and keys. Styling is modern yet simple. Highly recommend!"
+  },
+  {
+    "name": "Prem Dhaliwal",
+    "rating": 5,
+    "review": "Very flowy and classy dress. Got it at a great discount."
   }
 ]

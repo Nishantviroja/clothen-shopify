@@ -1,17 +1,207 @@
 [
   {
-    "name": "Rohit Chauhan",
-    "rating": 5,
-    "review": "Beautiful design, highly recommended."
-  },
-  {
-    "name": "Divya Agarwal",
-    "rating": 5,
-    "review": "Looks premium and elegant."
-  },
-  {
-    "name": "Snehal Kulkarni",
+    "name": "Dhara Pawar",
     "rating": 4,
-    "review": "Just loved it."
+    "review": "Pink color is slightly darker than the image, but linen quality is excellent. Fits well and feels thanda on body. 👍"
+  },
+  {
+    "name": "Hetal Jindal",
+    "rating": 4,
+    "review": "Good value for money, pink shade is very sweet. ❤️"
+  },
+  {
+    "name": "Pankaj Shenoy",
+    "rating": 5,
+    "review": "Perfect length for both pink top and pants. Trousers are loose and airy. Color is very beautiful. Great addition to my summer collection. ❤️"
+  },
+  {
+    "name": "Pratyush Joshi",
+    "rating": 4,
+    "review": "Slightly loose on waist but linen fabric is very soft. 😊"
+  },
+  {
+    "name": "Suhana Zala",
+    "rating": 5,
+    "review": "Best summer pink co-ord set. Highly recommend this brand! 🥰"
+  },
+  {
+    "name": "Aman Singh",
+    "rating": 5,
+    "review": "Nice neckline cut, looks very unique and stylish."
+  },
+  {
+    "name": "Reyansh Deol",
+    "rating": 4,
+    "review": "Good quality pink set, linen material is soft but shipping was a bit slow."
+  },
+  {
+    "name": "Garima Shenoy",
+    "rating": 5,
+    "review": "Very flowy linen fabric, color did not bleed during wash."
+  },
+  {
+    "name": "Shweta Roy",
+    "rating": 5,
+    "review": "Bahut hi sundar pink color hai. Stitching is neat. 👍"
+  },
+  {
+    "name": "Mamta Yadav",
+    "rating": 5,
+    "review": "Best buy for pink outfit lovers. The fabric is lightweight and doesn't require heavy ironing. The pink shade is very bright and looks stylish. Must buy!"
+  },
+  {
+    "name": "Sameer Grewal",
+    "rating": 5,
+    "review": "Jeve photo ma che exact pink shade che. Very happy."
+  },
+  {
+    "name": "Alka Gohil",
+    "rating": 5,
+    "review": "Kapdu khub j soft che. The pink color looks very classy and vibrant. The pattern is stitched very professionally, and the sleeves have a nice comfortable fit. No color bleeding or shrinking during wash. The pant length is perfect for me. Delivery took only 3 days. Will buy more. 😊"
+  },
+  {
+    "name": "Aarti Parmar",
+    "rating": 5,
+    "review": "Really liked the vibrant pink color combination. The pattern gives it a very contemporary look. Linen fabric is breathable and perfect for office wear. 😊"
+  },
+  {
+    "name": "Khushi Chopra",
+    "rating": 4,
+    "review": "Nice fit and style. Pockets are missing but overall good pink set. 👍"
+  },
+  {
+    "name": "Tanvi Rathore",
+    "rating": 4,
+    "review": "Fabric is comfortable. Pink shade looks nice, overall happy with buy."
+  },
+  {
+    "name": "Usha Arora",
+    "rating": 4,
+    "review": "The pink co-ord set looks very pretty and fabric is comfortable. The only issue is that the trousers are slightly long for my height, will need minor alterations. Good buy."
+  },
+  {
+    "name": "Aarti Sandhu",
+    "rating": 5,
+    "review": "Bahu comfortable set che everyday wear mate. The pink top looks very modern. Washed it twice and no color faded. Very satisfied with quality. 👌"
+  },
+  {
+    "name": "Nisha Kulkarni",
+    "rating": 5,
+    "review": "Bahu saro pink set che, stitching is excellent. 😊"
+  },
+  {
+    "name": "Raj Dhillon",
+    "rating": 3,
+    "review": "Linen quality is okay, but pink shade looks slightly faded after wash. 😕"
+  },
+  {
+    "name": "Neha Parmar",
+    "rating": 5,
+    "review": "Kapda bahut soft hai, pants are very comfortable too. 👌"
+  },
+  {
+    "name": "Varun Vyas",
+    "rating": 5,
+    "review": "I ordered this pink linen set for my sister. She loved the look and pattern. Fits her perfectly and fabric is soft on skin. Fast shipping. 👍"
+  },
+  {
+    "name": "Vihaan Mishra",
+    "rating": 5,
+    "review": "Perfect fitting and very comfortable for hot summers. 👍"
+  },
+  {
+    "name": "Sunita Prabhu",
+    "rating": 5,
+    "review": "Classy linen design, looks very elegant. Worth the price."
+  },
+  {
+    "name": "Yamini Chawla",
+    "rating": 5,
+    "review": "Gifted this pink set to my wife. She liked the soft feel of the fabric and the color. She says it's perfect for her daily office wear. Thank you!"
+  },
+  {
+    "name": "Navya Das",
+    "rating": 5,
+    "review": "Fitting pan perfect che and pink looks very elegant."
+  },
+  {
+    "name": "Sonal Rao",
+    "rating": 5,
+    "review": "Stitching quality is top notch. The pink color is very rich and matching pants look elegant. Ideal for hot summers. Value for money product. 🥰"
+  },
+  {
+    "name": "Bina Deshmukh",
+    "rating": 5,
+    "review": "Lovely vibrant pink color, fabric is super soft. ❤️"
+  },
+  {
+    "name": "Aditi Singhal",
+    "rating": 5,
+    "review": "Love the pink shade. It looks very fresh. Fabric is super soft linen. Stitching is very durable. Overall very happy! 👍"
+  },
+  {
+    "name": "Charu Prabhu",
+    "rating": 5,
+    "review": "Bought this for a casual get-together. Fabric is soft linen and flowy. The matching pink trousers make you look taller. Fitting is true to size."
+  },
+  {
+    "name": "Khushi Trivedi",
+    "rating": 5,
+    "review": "Bahut hi pyara pink co-ord set hai. Stitching is very clean and finishing is neat. Linen quality is high grade. Fit is exactly as per size chart."
+  },
+  {
+    "name": "Shweta Desai",
+    "rating": 5,
+    "review": "Gifted this pink linen co-ord set to my daughter for her college wear. She is extremely happy with the comfort and design. She was praising the soft linen material which is ideal for hot summer days. The matching pants look very smart. Stitching is clean and durable. Highly recommend! 👍"
+  },
+  {
+    "name": "Shweta Mukherjee",
+    "rating": 3,
+    "review": "The pink set design is nice, but the quality of linen is average. It is quite thin, so you might need to wear an inner slip under the top. Stitching is okay. 😐"
+  },
+  {
+    "name": "Krupa Narang",
+    "rating": 4,
+    "review": "The quality of the pink linen fabric is very nice, feels soft and lightweight. The style is exact same as shown in the picture, and the pink color looks very smart. Sizing is slightly loose, but comfortable. Wrinkles easily, so needs regular ironing. Good. 👍"
+  },
+  {
+    "name": "Tushal Jindal",
+    "rating": 5,
+    "review": "Gifted to my daughter, she is happy with the pink color."
+  },
+  {
+    "name": "Aditi Chatterjee",
+    "rating": 5,
+    "review": "Great pink set, material feels premium and lightweight."
+  },
+  {
+    "name": "Rohan Soni",
+    "rating": 4,
+    "review": "Fabric is soft linen, very comfy for daily use. Sizing is slightly on the looser side, but still looks good. Fast delivery. 😊"
+  },
+  {
+    "name": "Dhara Makwana",
+    "rating": 5,
+    "review": "I was looking for a stylish yet comfortable pink co-ord set for daily use, and this pink linen one is absolutely perfect. The fabric is extremely soft and light, doesn't feel warm at all. The cut of the top gives a very modern silhouette which I love. Trousers have a perfect fit and are very comfortable around the waist. Great buy! ❤️"
+  },
+  {
+    "name": "Yash Chatterjee",
+    "rating": 5,
+    "review": "Fabric khub j soft che and pink shade is gorgeous. Wore it for a long journey and felt very relaxed. Trousers have a good elastic waist. Good purchase. ❤️"
+  },
+  {
+    "name": "Navya Panicker",
+    "rating": 4,
+    "review": "Stitching is neat. Good daily wear pink co-ord set. 👌"
+  },
+  {
+    "name": "Purvi Gill",
+    "rating": 5,
+    "review": "Bahut comfortable matching set. Linen cloth is soft and thanda for summer. Neck stitching is neat and details look premium. Good delivery speed. 😊"
+  },
+  {
+    "name": "Lalit Johal",
+    "rating": 4,
+    "review": "Bahu comfortable set che everyday wear mate. The pink top looks very modern. Small thread issue near the sleeve border, but overall very good. 😊"
   }
 ]
