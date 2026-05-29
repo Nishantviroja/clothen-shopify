@@ -28,7 +28,7 @@ Here is the complete list of products available in this repository. Click on a p
 | 14 | Retro Poppy Printed Co-ord Set | [View Product](https://clothen.in/products/retro-poppy-printed-co-ord-set) |
 | 15 | Sky Pure Linen Co-ord Set | [View Product](https://clothen.in/products/sky-pure-linen-co-ord-set) |
 | 16 | Stylish Everyday Wear Dress | [View Product](https://clothen.in/products/stylish-everyday-wear-dress) |
-| 17 | Timeless Heritage Designer Co-Ord | [View Product](https://clothen.in/products/timeless-heritage-designer-co-ord) |
+| 17 | Timeless Heritage Designer Co-Ord Set | [View Product](https://clothen.in/products/timeless-heritage-designer-co-ord-set) |
 | 18 | White Pure Linen Co-ord Set | [View Product](https://clothen.in/products/white-pure-linen-co-ord-set) |
 | 19 | Women’s Abstract Printed Co-Ord Set | [View Product](https://clothen.in/products/women-s-abstract-printed-co-ord-set) |
 
