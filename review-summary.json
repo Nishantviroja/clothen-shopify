@@ -4,6 +4,11 @@
     "average_rating": 4.4,
     "total_reviews": 37
   },
+  "black-printed-rayon-co-ord-set": {
+    "product_name": "Black Printed Rayon Co-Ord Set",
+    "average_rating": 4.6,
+    "total_reviews": 47
+  },
   "black-pure-linen-co-ord-set": {
     "product_name": "Black Pure Linen Co-ord Set",
     "average_rating": 4.7,
@@ -13,11 +18,6 @@
     "product_name": "Brown Ethnic Printed Co-Ord Set",
     "average_rating": 4.7,
     "total_reviews": 33
-  },
-  "pink-pure-linen-co-ord-set": {
-    "product_name": "Pink Pure Linen Co-ord Set",
-    "average_rating": 4.6,
-    "total_reviews": 41
   },
   "elegant-midnight-flora-geometric-print-co-ord-set": {
     "product_name": "Elegant Midnight Flora & Geometric Print Co-ord Set",
@@ -33,6 +33,16 @@
     "product_name": "Orange Designer Rayon Dress",
     "average_rating": 4.8,
     "total_reviews": 46
+  },
+  "pink-designer-rayon-dress": {
+    "product_name": "Pink Designer Rayon Dress",
+    "average_rating": 4.5,
+    "total_reviews": 32
+  },
+  "pink-pure-linen-co-ord-set": {
+    "product_name": "Pink Pure Linen Co-ord Set",
+    "average_rating": 4.6,
+    "total_reviews": 41
   },
   "printed-asymmetric-rayon-co-ord-set": {
     "product_name": "Printed Asymmetric Rayon Co-Ord Set",
@@ -59,25 +69,35 @@
     "average_rating": 4.8,
     "total_reviews": 49
   },
+  "red-floral-printed-rayon-co-ord-set": {
+    "product_name": "Red Floral Printed Rayon Co-Ord Set",
+    "average_rating": 4.7,
+    "total_reviews": 51
+  },
   "retro-poppy-printed-co-ord-set": {
     "product_name": "Retro Poppy Printed Co-ord Set",
     "average_rating": 4.7,
     "total_reviews": 37
-  },
-  "timeless-heritage-designer-co-ord-set": {
-    "product_name": "Timeless Heritage Designer Co-Ord Set",
-    "average_rating": 4.7,
-    "total_reviews": 43
   },
   "sky-pure-linen-co-ord-set": {
     "product_name": "Sky Pure Linen Co-ord Set",
     "average_rating": 4.9,
     "total_reviews": 47
   },
+  "stylish-black-reyon-co-ord-set": {
+    "product_name": "Stylish Black Reyon Co Ord Set",
+    "average_rating": 4.8,
+    "total_reviews": 62
+  },
   "stylish-everyday-wear-dress": {
     "product_name": "Stylish Everyday Wear Dress",
     "average_rating": 4.7,
     "total_reviews": 57
+  },
+  "timeless-heritage-designer-co-ord-set": {
+    "product_name": "Timeless Heritage Designer Co-Ord Set",
+    "average_rating": 4.7,
+    "total_reviews": 43
   },
   "white-pure-linen-co-ord-set": {
     "product_name": "White Pure Linen Co-ord Set",
@@ -88,10 +108,5 @@
     "product_name": "Women’s Abstract Printed Co-Ord Set",
     "average_rating": 4.6,
     "total_reviews": 39
-  },
-  "pink-designer-rayon-dress": {
-    "product_name": "Pink Designer Rayon Dress",
-    "average_rating": 4.5,
-    "total_reviews": 32
   }
 }
