@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Alka Gill",
+    "rating": 5,
+    "review": "Gifted to my mother, she loved the relaxed palazzo fit and soft material."
+  },
+  {
+    "name": "Geeta Gill",
+    "rating": 5,
+    "review": "Wore it for long hours and felt very relaxed. Excellent travel wear."
+  },
+  {
+    "name": "Priyanka Dwivedi",
+    "rating": 4,
+    "review": "Good for office and daily wear. Fabric is soft, fit is comfortable."
+  },
+  {
+    "name": "Vineet Mittal",
+    "rating": 5,
+    "review": "Highly breathable, kept me cool all day. Paisley design looks very elegant."
+  },
+  {
+    "name": "Pratyush Khanna",
+    "rating": 3,
+    "review": "Average product. Sizing is a bit tight around shoulders. Casing is okay."
+  },
+  {
+    "name": "Tulsi Johal",
+    "rating": 4,
+    "review": "Elegant paisley top, trousers fit is relaxed. Good purchase for daily wear."
+  },
+  {
+    "name": "Tarun Makwana",
+    "rating": 5,
+    "review": "Very lightweight and flowy. Wrinkle-free and easy to maintain."
+  },
+  {
+    "name": "Bhakti Mehra",
+    "rating": 5,
+    "review": "Comfortable wide-leg pants with soft elastic waist. Top length is perfect."
+  },
+  {
+    "name": "Lalita Soni",
+    "rating": 5,
+    "review": "No color bleeding or shrinking after first wash. Highly recommended."
+  },
+  {
+    "name": "Manoj Mehra",
+    "rating": 5,
+    "review": "Excellent daily wear set. Fabric behaves well after wash, no shrinkage."
+  },
+  {
+    "name": "Purvi Mishra",
+    "rating": 4,
+    "review": "Good daily wear option. Rayon fabric is soft and breathable."
+  },
+  {
+    "name": "Deepa Narang",
+    "rating": 5,
+    "review": "Ordered M size and it fits beautifully. Full sleeves look very elegant."
+  },
+  {
+    "name": "Anjali Narang",
+    "rating": 5,
+    "review": "Kapdu khub j soft che and perfect size che. Love the border details!"
+  },
+  {
+    "name": "Falguni Narang",
+    "rating": 4,
+    "review": "Beautiful print, stretchable fabric makes it easy to move around in."
+  },
+  {
+    "name": "Manju Arora",
+    "rating": 5,
+    "review": "The wide-leg pant is extremely comfortable. Fits true to size and looks very premium. 🥰"
+  },
+  {
+    "name": "Payal Nambiar",
+    "rating": 4,
+    "review": "Fits well. Sizing is true to size chart. Nice everyday wear option."
+  },
+  {
+    "name": "Tushar Dhillon",
+    "rating": 4,
+    "review": "Decent buy. Colors match the picture, fabric is soft but slightly thin."
+  },
+  {
+    "name": "Ketul Kulkarni",
+    "rating": 5,
+    "review": "The paisley print is very rich and attractive. Very happy with the purchase."
+  },
+  {
+    "name": "Garima Panicker",
+    "rating": 5,
+    "review": "Fabric quality is superb. Extremely soft, lightweight and travel-friendly. Highly recommend."
+  },
+  {
+    "name": "Navya Nambiar",
+    "rating": 5,
+    "review": "Fast delivery and neat packaging. The paisley print co-ord set looks beautiful."
+  },
+  {
+    "name": "Gopi Vaghela",
+    "rating": 4,
+    "review": "Bahu comfortable set che. Fabric is soft but pants are slightly loose."
+  },
+  {
+    "name": "Abhishek Khanna",
+    "rating": 5,
+    "review": "Fabric doesn't require heavy ironing, very comfortable for long hours."
+  },
+  {
+    "name": "Anita Kulkarni",
+    "rating": 5,
+    "review": "Flattering paisley shape, sizing is accurate as per size chart. Happy purchase."
+  },
+  {
+    "name": "Neha Agrawal",
+    "rating": 5,
+    "review": "Elegant top, the colors look very fresh. Excellent summer outfit."
+  },
+  {
+    "name": "Vikram Agrawal",
+    "rating": 5,
+    "review": "Love the matching palazzo design. Trousers fitting is also very comfortable."
+  },
+  {
+    "name": "Poonam Zala",
+    "rating": 4,
+    "review": "Fabric is very comfortable. Print looks nice, overall happy with purchase."
+  },
+  {
+    "name": "Dev Shinde",
+    "rating": 4,
+    "review": "Good matching set, perfect size for my daughter. Stitching is standard."
+  },
+  {
+    "name": "Sunil Shetty",
+    "rating": 5,
+    "review": "Bahu comfortable palazzo set che. High quality fabric and perfect fitting."
+  },
+  {
+    "name": "Dhruv Goel",
+    "rating": 5,
+    "review": "Breathable and comfortable. Fits true to size chart. Must buy."
+  },
+  {
+    "name": "Deepa Bedi",
+    "rating": 5,
+    "review": "Jeve photo ma che exact same color print che. Very happy with purchase."
+  },
+  {
+    "name": "Heena Singh",
+    "rating": 5,
+    "review": "Very soft and skin-friendly fabric. High quality paisley patterns."
+  },
+  {
+    "name": "Anil Makwana",
+    "rating": 4,
+    "review": "The set looks elegant. Trousers have soft elastic waist, decent sizing."
+  },
+  {
+    "name": "Raj Bhat",
+    "rating": 5,
+    "review": "Fabric feels so soft and premium on skin. Very neat stitching."
+  },
+  {
+    "name": "Sarita Makwana",
+    "rating": 5,
+    "review": "Fit enhances natural shape, fabric is soft and comfortable. Great buy."
+  },
+  {
+    "name": "Nikhil Pillai",
+    "rating": 5,
+    "review": "Wrinkle-free material, very easy to wash and wear. Highly satisfied with quality."
+  },
+  {
+    "name": "Sonal Jindal",
+    "rating": 3,
+    "review": "Fabric is thin and quality could be better. Average fit for me. 😐"
+  },
+  {
+    "name": "Seema Sarkar",
+    "rating": 4,
+    "review": "Good quality paisley set, fabric is soft but delivery was slightly delayed. 👍"
+  },
+  {
+    "name": "Manish Gupta",
+    "rating": 5,
+    "review": "Super comfortable palazzo pants with elastic waist. Very neat design."
+  },
+  {
+    "name": "Nirav Chawla",
+    "rating": 5,
+    "review": "The top looks trendy and pants are loose and airy. Excellent matching set."
+  },
+  {
+    "name": "Chitra Chawla",
+    "rating": 5,
+    "review": "Love the matching top and trousers. Looks very trendy and stylish."
+  },
+  {
+    "name": "Dhara Joshi",
+    "rating": 5,
+    "review": "Bahu comfortable matching dress che daily wear mate. Stitching is top class."
+  },
+  {
+    "name": "Lalita Chawla",
+    "rating": 5,
+    "review": "Fabric quality is rich, stitching is durable and print details are neat."
+  },
+  {
+    "name": "Meenakshi Patil",
+    "rating": 4,
+    "review": "Overall good purchase. Paisley print looks premium but wrinkles easily."
+  },
+  {
+    "name": "Indira Solanki",
+    "rating": 5,
+    "review": "Stitching is durable, no loose threads. Very premium looking co-ord set."
+  },
+  {
+    "name": "Priyanka Pillai",
+    "rating": 4,
+    "review": "Looks smart on body. A bit loose at the waist but still comfortable."
+  },
+  {
+    "name": "Harsh Bhat",
+    "rating": 3,
+    "review": "Prints are nice, but color bled slightly in first wash. Average experience."
+  },
+  {
+    "name": "Lalit Menon",
+    "rating": 5,
+    "review": "Perfect fit for XXL size. Palazzo design hides belly nicely."
+  },
+  {
+    "name": "Deepa Khanna",
+    "rating": 5,
+    "review": "Material behaves well, very soft and cooling. Fits beautifully on body."
+  },
+  {
+    "name": "Lata Mehta",
+    "rating": 5,
+    "review": "Premium feel, relaxed fit palazzos. Best buy in this budget."
+  },
+  {
+    "name": "Tanvi Dubey",
+    "rating": 5,
+    "review": "Beautiful full sleeve co-ord set. Fabric is very breathable and cooling for hot summers. 👍"
+  },
+  {
+    "name": "Devendra Agrawal",
+    "rating": 5,
+    "review": "Bahu saro paisley print che. The blue and orange patterns look so rich and elegant. ❤️"
+  },
+  {
+    "name": "Gaurav Kapoor",
+    "rating": 5,
+    "review": "Got many compliments for this paisley set. Perfect for brunch dates and office wear."
+  },
+  {
+    "name": "Vaishali Sen",
+    "rating": 4,
+    "review": "Nice fit and style. Pockets are missing but overall very comfortable. 👌"
+  },
+  {
+    "name": "Varsha Rathod",
+    "rating": 5,
+    "review": "Highly breathable and lightweight. Colors are long-lasting after wash."
+  },
+  {
+    "name": "Garima Shah",
+    "rating": 3,
+    "review": "Fabric is average, got shrunk a little after first wash. Sizing is tight."
+  },
+  {
+    "name": "Vidya Sen",
+    "rating": 5,
+    "review": "Perfect summer vacation wear. Very light on body and looks highly stylish. 😊"
+  },
+  {
+    "name": "Sushma Iyer",
+    "rating": 5,
+    "review": "Fit is very neat, and palazzo pants look very classy. Highly satisfied."
+  },
+  {
+    "name": "Rajesh Dhaliwal",
+    "rating": 4,
+    "review": "Nice co-ord set under this budget. Print quality is very decent."
+  },
+  {
+    "name": "Anita Bhat",
+    "rating": 5,
+    "review": "Stunning blue and orange paisley prints. Perfect lounge and casual wear."
+  },
+  {
+    "name": "Jignesh Tripathi",
+    "rating": 4,
+    "review": "Palazzo pants are very comfy. Top fits nicely but sleeves are a bit long."
+  },
+  {
+    "name": "Raj Rathod",
+    "rating": 3,
+    "review": "Okay quality, but pants are too long for my height. Need alterations."
+  },
+  {
+    "name": "Poonam Rao",
+    "rating": 5,
+    "review": "Gifted this to my sister. She loved the comfortable feel and traditional print."
+  },
+  {
+    "name": "Komal Patel",
+    "rating": 5,
+    "review": "Super comfy matching set. Trousers fitting is also perfect. Value for money."
+  },
+  {
+    "name": "Bina Mishra",
+    "rating": 4,
+    "review": "Wrinkle-free and soft material. Fitting is slightly loose but comfortable."
+  },
+  {
+    "name": "Manoj Panicker",
+    "rating": 5,
+    "review": "The full sleeve cut looks very smart for brunch and vacation. Perfect buy."
+  },
+  {
+    "name": "Geeta Khanna",
+    "rating": 5,
+    "review": "Stitching is very clean and finishing is neat. Fits my body shape perfectly."
+  },
+  {
+    "name": "Vijay Chopra",
+    "rating": 5,
+    "review": "Bahu saro set che, print and fabric quality is very high. Worth the money."
+  }
+]
